@@ -1,0 +1,366 @@
+data,evento,eh_feriado,vespera_feriado,eh_reuniao_impacto,tem_refeicao,eh_evento_especial,etapa
+2025-01-01,"Dia mundial da paz / Confraternização Universal- Lei Federal nº 10.607, de 19/12/2002 (feriado federal)",1,0,0,0,0,0
+2025-01-02,Férias (25 dias),0,0,0,0,0,0
+2025-01-03,DIA LETIVO PADRAO,0,0,0,0,0,0
+2025-01-04,SABADO,0,0,0,0,0,0
+2025-01-05,DOMINGO,0,0,0,0,0,0
+2025-01-06,DIA LETIVO PADRAO,0,0,0,0,0,0
+2025-01-07,DIA LETIVO PADRAO,0,0,0,0,0,0
+2025-01-08,DIA LETIVO PADRAO,0,0,0,0,0,0
+2025-01-09,DIA LETIVO PADRAO,0,0,0,0,0,0
+2025-01-10,DIA LETIVO PADRAO,0,0,0,0,0,0
+2025-01-11,SABADO,0,0,0,0,0,0
+2025-01-12,DOMINGO,0,0,0,0,0,0
+2025-01-13,DIA LETIVO PADRAO,0,0,0,0,0,0
+2025-01-14,DIA LETIVO PADRAO,0,0,0,0,0,0
+2025-01-15,DIA LETIVO PADRAO,0,0,0,0,0,0
+2025-01-16,DIA LETIVO PADRAO,0,0,0,0,0,0
+2025-01-17,DIA LETIVO PADRAO,0,0,0,0,0,0
+2025-01-18,SABADO,0,0,0,0,0,0
+2025-01-19,DOMINGO,0,0,0,0,0,0
+2025-01-20,DIA LETIVO PADRAO,0,0,0,0,0,0
+2025-01-21,Reunião ordinária do NAPNE,0,0,0,0,0,0
+2025-01-22,DIA LETIVO PADRAO,0,0,0,0,0,0
+2025-01-23,FÉRIAS (25 DIAS),0,0,0,0,0,0
+2025-01-24,FÉRIAS (25 DIAS),0,0,0,0,0,0
+2025-01-25,FÉRIAS (25 DIAS),0,0,0,0,0,0
+2025-01-26,FÉRIAS (25 DIAS),0,0,0,0,0,0
+2025-01-27,FÉRIAS (25 DIAS),0,0,0,0,0,0
+2025-01-28,FÉRIAS (25 DIAS),0,0,0,0,0,0
+2025-01-29,FÉRIAS (25 DIAS),0,0,0,0,0,0
+2025-01-30,FÉRIAS (25 DIAS),0,0,0,0,0,0
+2025-01-31,FÉRIAS (25 DIAS),0,0,0,0,0,0
+2025-02-01,FÉRIAS (25 DIAS),0,0,0,0,0,0
+2025-02-02,Férias (25 dias) / FÉRIAS (25 DIAS),0,0,0,0,0,0
+2025-02-03,Rematrícula online / FÉRIAS (25 DIAS),0,0,0,0,0,0
+2025-02-04,Rematrícula online / FÉRIAS (25 DIAS),0,0,0,0,0,0
+2025-02-05,Rematrícula online / FÉRIAS (25 DIAS),0,0,0,0,0,0
+2025-02-06,Rematrícula online / FÉRIAS (25 DIAS),0,0,0,0,0,0
+2025-02-07,Rematrícula online / FÉRIAS (25 DIAS),0,0,0,0,0,0
+2025-02-08,Rematrícula online / FÉRIAS (25 DIAS),0,0,0,0,0,0
+2025-02-09,FÉRIAS (25 DIAS),0,0,0,0,0,0
+2025-02-10,FÉRIAS (25 DIAS),0,0,0,0,0,0
+2025-02-11,FÉRIAS (25 DIAS),0,0,0,0,0,0
+2025-02-12,FÉRIAS (25 DIAS),0,0,0,0,0,0
+2025-02-13,FÉRIAS (25 DIAS),0,0,0,0,0,0
+2025-02-14,FÉRIAS (25 DIAS),0,0,0,0,0,0
+2025-02-15,FÉRIAS (25 DIAS),0,0,0,0,0,0
+2025-02-16,FÉRIAS (25 DIAS),0,0,0,0,0,0
+2025-02-17,Planejamento,0,0,0,0,0,0
+2025-02-18,Planejamento,0,0,0,0,0,0
+2025-02-19,Início da Etapa 1,0,0,0,1,0,1
+2025-02-20,Reunião de pais,0,0,1,1,0,1
+2025-02-21,Reunião de pais,0,0,1,1,0,1
+2025-02-22,SABADO,0,0,0,0,0,1
+2025-02-23,DOMINGO,0,0,0,0,0,1
+2025-02-24,Início das matrículas em disciplinas optativas,0,0,0,1,0,1
+2025-02-25,DIA LETIVO PADRAO,0,0,0,1,0,1
+2025-02-26,DIA LETIVO PADRAO,0,0,0,1,0,1
+2025-02-27,DIA LETIVO PADRAO,0,0,0,1,0,1
+2025-02-28,Prazo máximo para solicitação de mudança de turma,0,0,0,1,0,1
+2025-03-01,SABADO,0,0,0,0,0,1
+2025-03-02,DOMINGO,0,1,0,0,0,1
+2025-03-03,Recesso,1,1,0,0,0,1
+2025-03-04,Carnaval,1,0,0,0,0,1
+2025-03-05,Cinzas,0,0,0,1,0,1
+2025-03-06,DIA LETIVO PADRAO,0,0,0,1,0,1
+2025-03-07,DIA LETIVO PADRAO,0,0,0,1,0,1
+2025-03-08,SABADO,0,0,0,0,0,1
+2025-03-09,DOMINGO,0,0,0,0,0,1
+2025-03-10,Semana de Valorização de Mulheres que Fizeram História (Lei nº 14.986/2024),0,0,0,1,1,1
+2025-03-11,Semana de Valorização de Mulheres que Fizeram História (Lei nº 14.986/2024),0,0,0,1,1,1
+2025-03-12,Semana de Valorização de Mulheres que Fizeram História (Lei nº 14.986/2024),0,0,0,1,1,1
+2025-03-13,Semana de Valorização de Mulheres que Fizeram História (Lei nº 14.986/2024),0,0,0,1,1,1
+2025-03-14,Semana de Valorização de Mulheres que Fizeram História (Lei nº 14.986/2024),0,0,0,1,1,1
+2025-03-15,Semana de Valorização de Mulheres que Fizeram História (Lei nº 14.986/2024),0,0,0,0,0,1
+2025-03-16,DOMINGO,0,0,0,0,0,1
+2025-03-17,DIA LETIVO PADRAO,0,0,0,1,0,1
+2025-03-18,DIA LETIVO PADRAO,0,0,0,1,0,1
+2025-03-19,DIA LETIVO PADRAO,0,0,0,1,0,1
+2025-03-20,DIA LETIVO PADRAO,0,0,0,1,0,1
+2025-03-21,DIA LETIVO PADRAO,0,0,0,1,0,1
+2025-03-22,SABADO,0,0,0,0,0,1
+2025-03-23,DOMINGO,0,0,0,0,0,1
+2025-03-24,DIA LETIVO PADRAO,0,0,0,1,0,1
+2025-03-25,DIA LETIVO PADRAO,0,0,0,1,0,1
+2025-03-26,DIA LETIVO PADRAO,0,0,0,1,0,1
+2025-03-27,DIA LETIVO PADRAO,0,0,0,1,0,1
+2025-03-28,DIA LETIVO PADRAO,0,0,0,1,0,1
+2025-03-29,Sábado Letivo,0,0,0,0,0,1
+2025-03-30,DOMINGO,0,0,0,0,0,1
+2025-03-31,DIA LETIVO PADRAO,0,0,0,1,0,1
+2025-04-01,DIA LETIVO PADRAO,0,0,0,1,0,1
+2025-04-02,DIA LETIVO PADRAO,0,0,0,1,0,1
+2025-04-03,DIA LETIVO PADRAO,0,0,0,1,0,1
+2025-04-04,DIA LETIVO PADRAO,0,0,0,1,0,1
+2025-04-05,SABADO,0,0,0,0,0,1
+2025-04-06,DOMINGO,0,0,0,0,0,1
+2025-04-07,Encontro com a CSP,0,0,0,1,0,1
+2025-04-08,Encontro com a CSP,0,0,0,1,0,1
+2025-04-09,Encontro com a CSP,0,0,0,1,0,1
+2025-04-10,Encontro com a CSP,0,0,0,1,0,1
+2025-04-11,Encontro com a CSP,0,0,0,1,0,1
+2025-04-12,Sábado Letivo,0,0,0,0,0,1
+2025-04-13,DOMINGO,0,0,0,0,0,1
+2025-04-14,DIA LETIVO PADRAO,0,0,0,1,0,1
+2025-04-15,DIA LETIVO PADRAO,0,0,0,1,0,1
+2025-04-16,DIA LETIVO PADRAO,0,0,0,1,0,1
+2025-04-17,DIA LETIVO PADRAO,0,1,0,1,0,1
+2025-04-18,"Sexta-Feira Santa / Paixão de Cristo – Lei Federal nº 9.093, de 12/09/1995 (Feriado Federal)",1,1,0,0,0,1
+2025-04-19,Recesso,1,0,0,0,0,1
+2025-04-20,Páscoa,0,1,0,0,0,1
+2025-04-21,"Tiradentes - Lei Federal nº 10.607, de 19/12/2002 (feriado federal)",1,0,0,0,0,1
+2025-04-22,DIA LETIVO PADRAO,0,0,0,1,0,1
+2025-04-23,DIA LETIVO PADRAO,0,0,0,1,0,1
+2025-04-24,DIA LETIVO PADRAO,0,0,0,1,0,1
+2025-04-25,Reunião ordinária do NAPNE,0,0,0,1,0,1
+2025-04-26,SABADO,0,0,0,0,0,1
+2025-04-27,DOMINGO,0,0,0,0,0,1
+2025-04-28,DIA LETIVO PADRAO,0,0,0,1,0,1
+2025-04-29,Reunião ordinária do NAPNE,0,0,0,1,0,1
+2025-04-30,Encerramento da Etapa 1,0,1,0,1,0,1
+2025-05-01,"Dia do Trabalho/Dia do Trabalhador – Lei Federal nº 10.607,de 19/12/2002 (feriado federal)",1,0,0,0,0,0
+2025-05-02,Início da Etapa 2,0,0,0,1,0,2
+2025-05-03,Sábado Letivo,0,0,0,0,0,2
+2025-05-04,DOMINGO,0,0,0,0,0,2
+2025-05-05,Encontro com a CSP,0,0,0,1,0,2
+2025-05-06,Encontro com a CSP,0,0,0,1,0,2
+2025-05-07,Encontro com a CSP,0,0,0,1,0,2
+2025-05-08,Encontro com a CSP,0,0,0,1,0,2
+2025-05-09,Encontro com a CSP,0,0,0,1,0,2
+2025-05-10,Sábado Letivo,0,0,0,0,0,2
+2025-05-11,DOMINGO,0,0,0,0,0,2
+2025-05-12,DIA LETIVO PADRAO,0,0,0,1,0,2
+2025-05-13,DIA LETIVO PADRAO,0,0,0,1,0,2
+2025-05-14,DIA LETIVO PADRAO,0,0,0,1,0,2
+2025-05-15,Conselho consultivo do 1º de bimestre,0,0,0,1,0,2
+2025-05-16,Conselho consultivo do 1º de bimestre,0,0,0,1,0,2
+2025-05-17,SABADO,0,0,0,0,0,2
+2025-05-18,DOMINGO,0,0,0,0,0,2
+2025-05-19,DIA LETIVO PADRAO,0,0,0,1,0,2
+2025-05-20,DIA LETIVO PADRAO,0,0,0,1,0,2
+2025-05-21,Campus Portas Abertas,0,0,0,1,1,2
+2025-05-22,DIA LETIVO PADRAO,0,0,0,1,0,2
+2025-05-23,DIA LETIVO PADRAO,0,0,0,1,0,2
+2025-05-24,SABADO,0,0,0,0,0,2
+2025-05-25,DOMINGO,0,0,0,0,0,2
+2025-05-26,DIA LETIVO PADRAO,0,0,0,1,0,2
+2025-05-27,DIA LETIVO PADRAO,0,0,0,1,0,2
+2025-05-28,DIA LETIVO PADRAO,0,0,0,1,0,2
+2025-05-29,DIA LETIVO PADRAO,0,0,0,1,0,2
+2025-05-30,Prazo máximo para cancelamento das disciplinas optativas,0,0,0,1,0,2
+2025-05-31,Sábado Letivo,0,0,0,0,0,2
+2025-06-01,DOMINGO,0,0,0,0,0,2
+2025-06-02,Encontro com a CSP,0,0,0,1,0,2
+2025-06-03,DIA LETIVO PADRAO,0,0,0,1,0,2
+2025-06-04,DIA LETIVO PADRAO,0,0,0,1,0,2
+2025-06-05,Reunião das famílias,0,0,1,1,0,2
+2025-06-06,Encontro com a CSP / Reunião das famílias,0,0,1,1,0,2
+2025-06-07,Sábado Letivo,0,0,0,0,0,2
+2025-06-08,DOMINGO,0,0,0,0,0,2
+2025-06-09,"Semana da Cultura, Diversidade e Meio Ambiente",0,0,0,1,1,2
+2025-06-10,"Semana da Cultura, Diversidade e Meio Ambiente",0,0,0,1,1,2
+2025-06-11,"Semana da Cultura, Diversidade e Meio Ambiente",0,0,0,1,1,2
+2025-06-12,"Semana da Cultura, Diversidade e Meio Ambiente",0,0,0,1,1,2
+2025-06-13,"Semana da Cultura, Diversidade e Meio Ambiente",0,0,0,1,1,2
+2025-06-14,"Semana da Cultura, Diversidade e Meio Ambiente",0,0,0,0,0,2
+2025-06-15,DOMINGO,0,0,0,0,0,2
+2025-06-16,DIA LETIVO PADRAO,0,0,0,1,0,2
+2025-06-17,DIA LETIVO PADRAO,0,0,0,1,0,2
+2025-06-18,DIA LETIVO PADRAO,0,1,0,1,0,2
+2025-06-19,Corpus Christi (Feriado Nacional),1,0,0,0,0,2
+2025-06-20,DIA LETIVO PADRAO,0,0,0,1,0,2
+2025-06-21,SABADO,0,0,0,0,0,2
+2025-06-22,DOMINGO,0,0,0,0,0,2
+2025-06-23,DIA LETIVO PADRAO,0,0,0,1,0,2
+2025-06-24,DIA LETIVO PADRAO,0,0,0,1,0,2
+2025-06-25,DIA LETIVO PADRAO,0,0,0,1,0,2
+2025-06-26,DIA LETIVO PADRAO,0,0,0,1,0,2
+2025-06-27,DIA LETIVO PADRAO,0,0,0,1,0,2
+2025-06-28,Festa Junina,0,0,0,0,0,2
+2025-06-29,DOMINGO,0,0,0,0,0,2
+2025-06-30,DIA LETIVO PADRAO,0,0,0,1,0,2
+2025-07-01,DIA LETIVO PADRAO,0,0,0,1,0,2
+2025-07-02,DIA LETIVO PADRAO,0,0,0,1,0,2
+2025-07-03,DIA LETIVO PADRAO,0,0,0,1,0,2
+2025-07-04,DIA LETIVO PADRAO,0,0,0,1,0,2
+2025-07-05,Limite de entrega de notas,0,0,0,0,0,2
+2025-07-06,DOMINGO,0,0,0,0,0,2
+2025-07-07,DIA LETIVO PADRAO,0,0,0,1,0,2
+2025-07-08,Encerramento da Etapa 2 - Limite de entrega de notas,0,1,0,1,0,2
+2025-07-09,"Revolução /Movimento Constitucionalista de 1932 – Lei Estadual nº 9.497, de 05/03/1997 (Feriado Estadual)",1,0,0,0,0,0
+2025-07-10,Férias docentes (20 dias),0,0,0,1,0,0
+2025-07-11,Férias docentes (20 dias),0,0,0,1,0,0
+2025-07-12,Férias docentes (20 dias),0,0,0,0,0,0
+2025-07-13,Férias docentes (20 dias),0,0,0,0,0,0
+2025-07-14,Férias docentes (20 dias) / 1607 – drg.itq@ifsp.edu.br,0,0,0,1,0,0
+2025-07-15,Férias docentes (20 dias),0,0,0,1,0,0
+2025-07-16,Férias docentes (20 dias),0,0,0,1,0,0
+2025-07-17,Férias docentes (20 dias),0,0,0,1,0,0
+2025-07-18,Férias docentes (20 dias),0,0,0,1,0,0
+2025-07-19,Férias docentes (20 dias),0,0,0,0,0,0
+2025-07-20,Férias docentes (20 dias),0,0,0,0,0,0
+2025-07-21,Férias docentes (20 dias),0,0,0,1,0,0
+2025-07-22,Férias docentes (20 dias),0,0,0,1,0,0
+2025-07-23,Férias docentes (20 dias),0,0,0,1,0,0
+2025-07-24,Férias docentes (20 dias) / Reunião ordinária do NAPNE,0,0,0,1,0,0
+2025-07-25,Férias docentes (20 dias),0,0,0,1,0,0
+2025-07-26,Férias docentes (20 dias),0,0,0,0,0,0
+2025-07-27,Férias docentes (20 dias) / Reunião ordinária do NAPNE,0,0,0,0,0,0
+2025-07-28,Férias docentes (20 dias),0,0,0,1,0,0
+2025-07-29,Férias docentes (20 dias),0,0,0,1,0,0
+2025-07-30,Replanejamento,0,0,1,1,0,0
+2025-07-31,Conselho de classe do 2º bimestre / Inicio da Etapa 3,0,0,1,1,0,3
+2025-08-01,Conselho de classe do 2º bimestre,0,0,1,1,0,3
+2025-08-02,SABADO,0,0,0,0,0,3
+2025-08-03,DOMINGO,0,0,0,0,0,3
+2025-08-04,Encontro da CSP,0,0,0,1,0,3
+2025-08-05,Encontro da CSP,0,0,0,1,0,3
+2025-08-06,Encontro da CSP,0,0,0,1,0,3
+2025-08-07,Encontro da CSP,0,0,0,1,0,3
+2025-08-08,Encontro da CSP,0,0,0,1,0,3
+2025-08-09,Sábado Letivo,0,0,0,0,0,3
+2025-08-10,DOMINGO,0,0,0,0,0,3
+2025-08-11,DIA LETIVO PADRAO,0,0,0,1,0,3
+2025-08-12,DIA LETIVO PADRAO,0,0,0,1,0,3
+2025-08-13,DIA LETIVO PADRAO,0,0,0,1,0,3
+2025-08-14,Reunião de pais,0,0,1,1,0,3
+2025-08-15,Reunião de pais,0,0,1,1,0,3
+2025-08-16,Sábado Letivo,0,0,0,0,0,3
+2025-08-17,DOMINGO,0,0,0,0,0,3
+2025-08-18,DIA LETIVO PADRAO,0,0,0,1,0,3
+2025-08-19,DIA LETIVO PADRAO,0,0,0,1,0,3
+2025-08-20,DIA LETIVO PADRAO,0,0,0,1,0,3
+2025-08-21,DIA LETIVO PADRAO,0,0,0,1,0,3
+2025-08-22,DIA LETIVO PADRAO,0,0,0,1,0,3
+2025-08-23,SABADO,0,0,0,0,0,3
+2025-08-24,DOMINGO,0,0,0,0,0,3
+2025-08-25,DIA LETIVO PADRAO,0,0,0,1,0,3
+2025-08-26,DIA LETIVO PADRAO,0,0,0,1,0,3
+2025-08-27,DIA LETIVO PADRAO,0,0,0,1,0,3
+2025-08-28,DIA LETIVO PADRAO,0,0,0,1,0,3
+2025-08-29,DIA LETIVO PADRAO,0,0,0,1,0,3
+2025-08-30,SABADO,0,0,0,0,0,3
+2025-08-31,DOMINGO,0,0,0,0,0,3
+2025-09-01,Encontro da CSP,0,0,0,1,0,3
+2025-09-02,Encontro da CSP,0,0,0,1,0,3
+2025-09-03,Encontro da CSP,0,0,0,1,0,3
+2025-09-04,Encontro da CSP,0,0,0,1,0,3
+2025-09-05,Encontro da CSP,0,0,0,1,0,3
+2025-09-06,SABADO,0,1,0,0,0,3
+2025-09-07,"Independência do Brasil - Lei Federal nº 10.607, de 19/12/2002 (feriado federal)",1,1,0,0,0,3
+2025-09-08,Fundação de Itaquaquecetuba - Lei Orgânica (feriado municipal),1,0,0,0,0,3
+2025-09-09,DIA LETIVO PADRAO,0,0,0,1,0,3
+2025-09-10,DIA LETIVO PADRAO,0,0,0,1,0,3
+2025-09-11,DIA LETIVO PADRAO,0,0,0,1,0,3
+2025-09-12,DIA LETIVO PADRAO,0,0,0,1,0,3
+2025-09-13,Sábado Letivo,0,0,0,0,0,3
+2025-09-14,DOMINGO,0,0,0,0,0,3
+2025-09-15,DIA LETIVO PADRAO,0,0,0,1,0,3
+2025-09-16,DIA LETIVO PADRAO,0,0,0,1,0,3
+2025-09-17,DIA LETIVO PADRAO,0,0,0,1,0,3
+2025-09-18,DIA LETIVO PADRAO,0,0,0,1,0,3
+2025-09-19,DIA LETIVO PADRAO,0,0,0,1,0,3
+2025-09-20,Sábado Letivo,0,0,0,0,0,3
+2025-09-21,DOMINGO,0,0,0,0,0,3
+2025-09-22,DIA LETIVO PADRAO,0,0,0,1,0,3
+2025-09-23,DIA LETIVO PADRAO,0,0,0,1,0,3
+2025-09-24,DIA LETIVO PADRAO,0,0,0,1,0,3
+2025-09-25,DIA LETIVO PADRAO,0,0,0,1,0,3
+2025-09-26,DIA LETIVO PADRAO,0,0,0,1,0,3
+2025-09-27,Sábado Letivo,0,0,0,0,0,3
+2025-09-28,DOMINGO,0,0,0,0,0,3
+2025-09-29,DIA LETIVO PADRAO,0,0,0,1,0,3
+2025-09-30,DIA LETIVO PADRAO,0,0,0,1,0,3
+2025-10-01,DIA LETIVO PADRAO,0,0,0,1,0,3
+2025-10-02,Encerramento da Etapa 3,0,0,0,1,0,3
+2025-10-03,Início da Etapa 4,0,0,0,1,0,4
+2025-10-04,SABADO,0,0,0,0,0,4
+2025-10-05,DOMINGO,0,0,0,0,0,4
+2025-10-06,Semana Nacional de Ciência e Tecnologia,0,0,0,1,1,4
+2025-10-07,Semana Nacional de Ciência e Tecnologia,0,0,0,1,1,4
+2025-10-08,Semana Nacional de Ciência e Tecnologia,0,0,0,1,1,4
+2025-10-09,Semana Nacional de Ciência e Tecnologia,0,0,0,1,1,4
+2025-10-10,Semana Nacional de Ciência e Tecnologia,0,0,0,1,1,4
+2025-10-11,Semana Nacional de Ciência e Tecnologia,0,1,0,0,0,4
+2025-10-12,"Nossa Senhora Aparecida – Lei Federal nº 6.802, de 30/06/1980 (feriado federal)",1,0,0,0,0,4
+2025-10-13,Conselho do 3º bimestre,0,0,0,1,0,4
+2025-10-14,Conselho do 3º bimestre,0,0,0,1,0,4
+2025-10-15,"Dia do Professor – Decreto Federal nº 52.682, de 14/10/1963",0,0,0,1,0,4
+2025-10-16,DIA LETIVO PADRAO,0,0,0,1,0,4
+2025-10-17,DIA LETIVO PADRAO,0,0,0,1,0,4
+2025-10-18,SABADO,0,0,0,0,0,4
+2025-10-19,DOMINGO,0,0,0,0,0,4
+2025-10-20,DIA LETIVO PADRAO,0,0,0,1,0,4
+2025-10-21,DIA LETIVO PADRAO,0,0,0,1,0,4
+2025-10-22,DIA LETIVO PADRAO,0,0,0,1,0,4
+2025-10-23,DIA LETIVO PADRAO,0,0,0,1,0,4
+2025-10-24,DIA LETIVO PADRAO,0,0,0,1,0,4
+2025-10-25,SABADO,0,0,0,0,0,4
+2025-10-26,DOMINGO,0,0,0,0,0,4
+2025-10-27,DIA LETIVO PADRAO,0,1,0,1,0,4
+2025-10-28,"Dia do Servidor Público – art. 236 da Lei nº 8.112, de 11/12/1990 / (feriado federal / ponto facultativo)",1,0,0,0,0,4
+2025-10-29,DIA LETIVO PADRAO,0,0,0,1,0,4
+2025-10-30,DIA LETIVO PADRAO,0,0,0,1,0,4
+2025-10-31,Prazo máximo para cancelamento das disciplinas optativas,0,0,0,1,0,4
+2025-11-01,Festa de Halloween/ Dia de Los Muertos (sugestão),0,1,0,0,0,4
+2025-11-02,"Finados – Lei Federal nº 10.607, de 19/12/2002 (feriado federal)",1,0,0,0,0,4
+2025-11-03,Encontro da CSP,0,0,0,1,0,4
+2025-11-04,Encontro da CSP / Sábado Letivo,0,0,0,1,0,4
+2025-11-05,Encontro da CSP,0,0,0,1,0,4
+2025-11-06,Encontro da CSP / Limite de entrega de notas,0,0,0,1,0,4
+2025-11-07,Encontro da CSP,0,0,0,1,0,4
+2025-11-08,Sábado Letivo,0,0,0,0,0,4
+2025-11-09,DOMINGO,0,0,0,0,0,4
+2025-11-10,DIA LETIVO PADRAO,0,0,0,1,0,4
+2025-11-11,DIA LETIVO PADRAO,0,0,0,1,0,4
+2025-11-12,DIA LETIVO PADRAO,0,0,0,1,0,4
+2025-11-13,DIA LETIVO PADRAO,0,0,0,1,0,4
+2025-11-14,DIA LETIVO PADRAO,0,1,0,1,0,4
+2025-11-15,"Proclamação da República – Lei Federal nº 10.607, de 19/12/2002 (feriado federal)",1,0,0,0,0,4
+2025-11-16,DOMINGO,0,0,0,0,0,4
+2025-11-17,DIA LETIVO PADRAO,0,0,0,1,0,4
+2025-11-18,Sábado Letivo,0,0,0,1,0,4
+2025-11-19,DIA LETIVO PADRAO,0,0,0,1,0,4
+2025-11-20,Dia Estadual da Consciência Negra – Lei Estadual nº. 17.746 de 12/09/2023,0,0,0,1,0,4
+2025-11-21,Reunião ordinária do NAPNE,0,0,0,1,0,4
+2025-11-22,SABADO,0,0,0,0,0,4
+2025-11-23,DOMINGO,0,0,0,0,0,4
+2025-11-24,Semana da Consciência Negra,0,0,0,1,1,4
+2025-11-25,Semana da Consciência Negra,0,0,0,1,1,4
+2025-11-26,Reunião ordinária do NAPNE / Semana da Consciência Negra,0,0,0,1,1,4
+2025-11-27,Semana da Consciência Negra,0,0,0,1,1,4
+2025-11-28,Semana da Consciência Negra,0,0,0,1,1,4
+2025-11-29,Semana da Consciência Negra,0,0,0,0,0,4
+2025-11-30,Sábado Letivo / Reunião ordinária do NAPNE,0,0,0,0,0,4
+2025-12-01,DIA LETIVO PADRAO,0,0,0,1,0,4
+2025-12-02,DIA LETIVO PADRAO,0,0,0,1,0,4
+2025-12-03,DIA LETIVO PADRAO,0,0,0,1,0,4
+2025-12-04,DIA LETIVO PADRAO,0,0,0,1,0,4
+2025-12-05,DIA LETIVO PADRAO,0,0,0,1,0,4
+2025-12-06,Apresentação de Projetos Integradores – Lanche coletivo,0,0,0,0,0,4
+2025-12-07,DOMINGO,0,0,0,0,0,4
+2025-12-08,DIA LETIVO PADRAO,0,0,0,1,0,4
+2025-12-09,DIA LETIVO PADRAO,0,0,0,1,0,4
+2025-12-10,DIA LETIVO PADRAO,0,0,0,1,0,4
+2025-12-11,Encerramento da Etapa 4,0,0,0,1,0,4
+2025-12-12,DIA LETIVO PADRAO,0,0,0,1,0,0
+2025-12-13,SABADO,0,0,0,0,0,0
+2025-12-14,1607 – drg.itq@ifsp.edu.br,0,0,0,0,0,0
+2025-12-15,DIA LETIVO PADRAO,0,0,0,1,0,0
+2025-12-16,Reavaliação,0,0,1,1,0,0
+2025-12-17,Reavaliação,0,0,1,1,0,0
+2025-12-18,Conselhos,0,0,1,1,0,0
+2025-12-19,Conselhos,0,0,1,1,0,0
+2025-12-20,SABADO,0,0,0,0,0,0
+2025-12-21,DOMINGO,0,0,0,0,0,0
+2025-12-22,DIA LETIVO PADRAO,0,0,0,1,0,0
+2025-12-23,DIA LETIVO PADRAO,0,0,0,1,0,0
+2025-12-24,DIA LETIVO PADRAO,0,1,0,1,0,0
+2025-12-25,"Natal – Lei Federal nº 10.607, de 19/12/2002 (feriado federal)",1,0,0,0,0,0
+2025-12-26,DIA LETIVO PADRAO,0,0,0,1,0,0
+2025-12-27,SABADO,0,0,0,0,0,0
+2025-12-28,DOMINGO,0,0,0,0,0,0
+2025-12-29,DIA LETIVO PADRAO,0,0,0,1,0,0
+2025-12-30,DIA LETIVO PADRAO,0,0,0,1,0,0
+2025-12-31,DIA LETIVO PADRAO,0,0,0,1,0,0

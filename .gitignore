@@ -22,4 +22,5 @@ full_jupyter_url.txt
 
 # Ignorar pastas solicitadas pelo usuário
 docs/
-data/
+data/*
+!data/*.csv
