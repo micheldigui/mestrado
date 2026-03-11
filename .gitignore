@@ -1,0 +1,25 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.cache.sqlite
+catboost_info/
+
+# Jupyter
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IDEs
+.vscode/
+.idea/
+
+# Temporários e Documentos Grandes
+*.log
+*.tmp
+jupyter_token_temp.txt
+full_jupyter_url.txt
+
+# Ignorar pastas solicitadas pelo usuário
+docs/
+data/
