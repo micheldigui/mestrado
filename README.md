@@ -174,9 +174,10 @@ jupyter lab
 
 ## 👤 Autor
 
-**Michel Diguim Guimarães**
-Programa de Pós-Graduação em Computação Aplicada — Mestrado
-Orientador: Prof. Dr. [Nome do Orientador]
+**Michel Souza**
+Programa de Pós-Graduação em Sistemas Produtivos — Mestrado
+Orientador: Prof. Dr. Carlos Hideo Arima
+Co-Orientador: Prof. Dr. Rafael Orsi
 
 ---
 
@@ -185,9 +186,9 @@ Orientador: Prof. Dr. [Nome do Orientador]
 Se este trabalho for útil para sua pesquisa, cite:
 
 ```bibtex
-@mastersthesis{guimaraes2025,
+@mastersthesis{souza2026,
   title  = {Indústria 5.0 na Gestão Pública: Redução do Desperdício Alimentar em UANs através de Stacking Ensemble e BERT},
-  author = {Guimarães, Michel Diguim},
+  author = {Souza, Michel},
   year   = {2025},
   school = {Programa de Pós-Graduação em Computação Aplicada}
 }
