@@ -1,4 +1,4 @@
-# 
+# Elementos Pré-Textuais
 
 ## Título Oficial
 
@@ -25,198 +25,9 @@ Food waste in public Food and Nutrition Units (UANs) represents a critical chall
 
 --- [QUEBRA DE PÁGINA ABNT] ---
 
-# SUMÁRIO
-
-  - Título Oficial
-  - RESUMO
-  - ABSTRACT
-- **1 INTRODUÇÃO**
-  - 1.1 Contextualização e Motivação
-  - 1.2 Problema de Pesquisa e Hipóteses
-  - 1.3 Objetivos da Pesquisa
-  - 1.4 Justificativa e Organização do Trabalho
-- **2 FUNDAMENTAÇÃO TEÓRICA**
-  - 2.1 Gestão de Unidades de Alimentação e Nutrição (UANs)
-    - 2.1.1 O Panorama do PNAES e a Alimentação Universitária
-    - 2.1.2 Cadeia de Suprimentos Alimentar (SCM) e a Perecibilidade
-    - 2.1.3 Legislação e Sustentabilidade na Gestão Pública
-  - 2.2 Design Science Research (DSR): A Ciência do Artificial
-  - 2.2.1 A Filosofia de Herbert Simon e as Ciências do Artificial
-  - 2.2.2 Ciclos de Pesquisa e Rigor Científico
-  - 2.2.3 O Modelo de Peffers et al. (DSRM)
-  - 2.3 Inteligência Artificial e Aprendizado de Máquina
-  - 2.3.1 Evolução do Aprendizado Supervisionado
-    - 2.3.2 Modelos Baseados em Árvores e Gradient Boosting
-    - 2.3.3 Aprendizado por Reforço e Inteligência Prescritiva
-    - 2.3.4 Ensemble Learning e Stacking
-  - 2.3.5 Métricas de Avaliação no Contexto de Gestão
-  - 2.4 Evolução Histórica do Aprendizado de Máquina e NLP
-    - 2.4.2 O Desafio das Sequências: RNNs e LSTMs
-    - 2.4.3 A Era da Atenção e do Transfer Learning
-  - 2.5 Processamento de Linguagem Natural (NLP) e BERT
-    - 2.5.1 Evolução das Representações de Texto
-    - 2.5.2 A Revolução dos Transformers e o BERT
-    - 2.5.3 BERT na Gestão de UANs
-  - 2.6 Indústria 5.0: O Paradigma da Resiliência e do Humanocentrismo
-    - 2.6.1 Sociedade 5.0 e o Bem Público
-    - 2.6.2 Simbiose IA-Humano na Gestão Alimentar
-- **3 METODOLOGIA DA PESQUISA**
-  - 3.1 Enquadramento Metodológico: O Paradigma da Design Science Research (DSR)
-    - 3.1.1 Contexto Histórico e Justificativa da Escolha
-    - 3.1.2 O Ciclo de Vida da Pesquisa segundo Peffers et al. (2007)
-    - 3.1.3 A Teoria dos Três Ciclos de Hevner (2007)
-    - 3.1.4 Taxonomia dos Artefatos na Design Science Research
-    - 3.1.5 A Epistemologia da DSR e a Geração de Conhecimento
-  - 3.2 Procedimentos Técnicos: Coleta e Pipeline de Engenharia de Dados
-  - 3.2.1 Fontes de Dados e Aquisição (Ingestão)
-  - 3.2.2 Pipeline de Tratamento e Saneamento (Data Cleansing)
-  - 3.2.3 Sincronização e Fusão Multimodal (Merging)
-  - 3.3 Engenharia de Atributos e Processamento de Linguagem Natural (NLP)
-    - 3.3.1 Atributos Temporais, Cíclicos e Contextuais
-    - 3.3.2 Variáveis de Atraso (Lags) e Dinâmica de Séries Temporais
-    - 3.3.3 Processamento de Linguagem Natural (NLP): A Intelectualização do Cardápio via BERT
-  - 3.4 Protocolos de Avaliação e Validação do Artefato
-    - 3.4.1 Métricas Estatísticas de Desempenho Preditivo
-    - 3.4.2 Protocolo de Backtesting: TimeSeriesSplit e Proteção contra Overfitting
-    - 3.4.3 Validação de Negócio: O "Duelo" IA vs. Reservas
-  - 3.5 Ambiente Tecnológico e Reprodutibilidade da Pesquisa
-    - 3.5.1 Stack Tecnológica
-    - 3.5.2 Infraestrutura de Hardware
-    - 3.5.3 Estrutura de Notebooks e Versionamento
-  - 3.6 Análise de Modelos Candidatos: A Jornada da Seleção Algorítmica
-  - 3.6.1 Modelos Lineares e Regularização (Notebook 07a)
-  - 3.6.2 K-Nearest Neighbors - KNN (Notebook 07b)
-  - 3.6.3 Support Vector Regression - SVR (Notebook 07c)
-  - 3.6.4 Redes Neurais Artificiais - ANN (Notebook 07f)
-  - 3.6.5 Árvores de Decisão e Gradient Boosting (Notebooks 07d e 07e)
-  - 3.7 Modelagem Clássica vs. Moderna: Uma Análise Comparativa de Séries Temporais
-  - 3.7.1 Abordagens Estatísticas Clássicas (ARIMA/SARIMA)
-  - 3.7.2 Modelagem Bayesiana com Facebook Prophet
-  - 3.7.3 Por que a Abordagem Multimodal (Stacking) Venceu?
-- **4 MODELO SISTÊMICO**
-  - 4.1 Arquitetura do Motor Hiper Inteligente: Uma Abordagem Multimodal
-    - 4.1.1 Visão Geral do Fluxo de Processamento
-    - 4.1.2 Inovação: O Hibridismo como Estratégia de Resiliência
-    - 4.1.3 Alinhamento com a Indústria 5.0
-  - 4.2 Processamento de Linguagem Natural: Vetorização Semântica via BERT
-    - 4.2.1 O Desafio da Semântica Nutricional
-    - 4.2.2 O Modelo BERT e a Arquitetura de Transformers
-    - 4.2.3 Pipeline de Processamento do Cardápio
-    - 4.2.4 Análise de Correlação das Features Semânticas
-    - 4.2.4 Resultados da Vetorização: O Espaço Latente Gastronômico
-  - 4.3 Inteligência Coletiva: O Comitê Preditivo (Ensemble Learning)
-    - 4.3.1 A Filosofia da "Sabedoria das Multidões" em IA
-    - 4.3.2 Os Componentes do Comitê: A Trindade do Boosting
-    - 4.3.3 Hibridismo Adaptativo e Consciência Contextual (Mix de Recomendação)
-    - 4.3.4 Otimização via Optuna: Ajuste Fino Científico
-  - 4.4 Gestão de Risco e Simulação de Monte Carlo: O Cálculo da Margem de Segurança
-    - 4.4.1 A Incerteza Intrínseca da Demanda
-    - 4.4.2 A Matemática da Simulação de Monte Carlo
-    - 4.4.3 IA com Margem de Segurança (IA Safety Margin)
-    - 4.4.4 Visualização do Gerenciamento de Risco
-    - 4.4.5 O Impacto na Indústria 5.0: Do Desperdício à Resiliência
-  - 4.5 Arquitetura da Camada Prescritiva: O Agente de Decisão (RL)
-    - 4.5.1 O Ambiente SmartKitchenEnv (Gymnasium)
-    - 4.5.2 Função de Recompensa (Reward Function)
-    - 4.5.3 Algoritmo PPO (Proximal Policy Optimization)
-    - 4.5.4 Integração Preditivo-Prescritivo
-    - 📚 Referências Utilizadas nesta Seção:
-- **5 ANÁLISE E DISCUSSÃO DOS RESULTADOS**
-  - 5.1 Critérios de Avaliação e Contexto de Teste
-    - 5.1.1 Configuração do Ambiente de Avaliação
-  - 5.2 Desempenho Estatístico e Validação Cruzada
-  - 5.2.1 Comparativo de Algoritmos (Base de Conhecimento)
-    - 5.2.1.1 Correlação do Ecossistema de Dados
-    - 5.2.2 Análise Visual de Erro e Resíduos
-  - 5.2.3 O Papel do BERT na Redução do Erro
-  - 5.2.3 Estabilidade em Cenários de Impacto
-  - 5.3 Impacto Financeiro e Redução de Desperdício
-  - 5.3.1 O Problema do "No-Show" e do Excesso de Reservas
-  - 5.3.2 Resultados Financeiros Diretos
-  - 5.3.3 Projeção de Eficiência Anual e Social
-    - 5.3.3.1 Visualização do Duelo de Eficiência
-  - 5.3.4 Análise Comparativa Dia a Dia
-  - 5.3.5 Sustentabilidade e ESG
-  - 5.4 Análise de Sensibilidade e Importância das Variáveis (Feature Importance)
-  - 5.4.1 O Peso do Histórico e das Reservas (Eixo Gestão)
-  - 5.4.2 O Clima como Driver de "No-show" (Eixo Meteorológico)
-  - 5.4.3 A Semântica do Cardápio: O Poder do BERT (Eixo Inovação)
-  - 5.4.4 Resiliência e "Concept Drift": A Especialização 2025
-  - 5.4.5 Importância Global dos Atributos
-  - 5.5 Segurança Operacional e Margem Inteligente (Monte Carlo)
-  - 5.5.1 Dinâmica da Margem de Segurança
-    - 5.5.2 Análise do Trade-off: Resiliência vs. Desperdício
-  - 5.6 Análise Qualitativa e Estudos de Caso: IA em Situações de Stress
-  - 5.6.1 Caso 1: O Efeito da Mudança Climática Súbita
-  - 5.6.2 Caso 2: A Atratividade Semântica do Cardápio (Impacto BERT)
-  - 5.6.3 Caso 3: Resiliência em Períodos de Transição Acadêmica
-  - 5.7 Os Limites de Previsibilidade: Onde a IA encontra o Imponderável
-    - 5.7.1 Eventos Sociais e Mobilizações Estudantis
-    - 5.7.2 O Desafio do "Concept Drift" (Deriva de Conceito)
-    - 5.7.3 Condições de Contorno e Replicabilidade
-    - 5.7.4 Reflexão Ética: A IA como Ferramenta de Suporte, não de Substituição
-  - 5.8 Síntese da Avaliação do Artefato
-  - 5.9 Inteligência Prescritiva: Otimização via Aprendizado por Reforço (RL)
-    - 5.9.1 Fundamentação da Camada de Decisão
-    - 5.9.2 O Experimento: SmartKitchenEnv e PPO
-    - 5.9.3 Representações de Prova Científica
-    - 5.9.4 Conclusão da Seção
-    - 📚 Referências Utilizadas nesta Seção:
-  - 5.10 Discussão Crítica e Lições Aprendidas
-    - 5.10.1 Superando o *Concept Drift* via Especialização 2025
-    - 5.10.2 A Sinergia entre NLP (BERT) e Variáveis Climáticas
-    - 5.10.3 Da Predição à Resiliência: O Papel do RL
-    - 5.10.4 Limitações e Desafios de Governança
-    - 📚 Referências Utilizadas nesta Seção:
-- **6 CONSIDERAÇÕES FINAIS**
-  - 6.1 Conclusões sobre a Pesquisa
-- **6.2 CONTRIBUIÇÕES PARA A ORGANIZAÇÃO E PARA A CIÊNCIA**
-  - 6.2.1 Contribuições Organizacionais e Sociais
-  - 6.2.2 Impacto Potencial na Rede Federal (Projeção de Valor Público)
-  - 6.2.3 Contribuições Científicas (Acadêmicas)
-  - 6.3 Governança e Simbiose Humano-Máquina (Indústria 5.0)
-    - 6.3.1 O Papel do Gestor na Era da IA
-    - 6.3.2 Resiliência e Sustentabilidade
-  - 6.4 Limitações e Trabalhos Futuros
-    - 6.4.1 Limitações da Pesquisa
-    - 6.4.2 Trabalhos Futuros
-- **REFERÊNCIAS BIBLIOGRÁFICAS (NORMAS ABNT)**
-- **APÊNDICE A: DICIONÁRIO DE VARIÁVEIS DO MOTOR PREDITIVO**
-  - A.1 Variáveis Temporais e de Calendário (22 variáveis)
-  - A.2 Variáveis Meteorológicas (15 variáveis)
-  - A.3 Variáveis Semânticas e de Cardápio (768 dimensões)
-  - A.5 Variáveis de Decisão (Agente de RL - Camada Prescritiva)
-- **APÊNDICE B: CÓDIGO-FONTE DO PIPELINE E MODELO**
-  - B.1 Rotina de Ingestão e Vetorização BERT (Notebook 01c)
-- **CARREGAMENTO DO MODELO BERT-BASE-PORTUGUESE (CASED) DO HUGGING FACE**
-- **EXEMPLO DE APLICAÇÃO NO CARDÁPIO**
-  - B.2 Arquitetura do Comitê Preditivo (Stacking)
-- **DEFINIÇÃO DOS MODELOS DE BASE (ESPECIALISTAS)**
-- **META-MODELO DE HARMONIZAÇÃO (GENERALISTA)**
-- **CONSTRUÇÃO DO STACKING**
-- **TREINAMENTO DO MODELO HÍBRIDO**
-  - B.3 Simulação de Monte Carlo para Segurança Operacional
-- **EXEMPLO: PREVISÃO DE 500 REFEIÇÕES COM ERRO MÉDIO DE 30**
-- **APÊNDICE C: LOG DE EXPERIMENTOS E EVOLUÇÃO DO PIPELINE**
-  - C.1 Evolução das Versões do Artefato
-  - C.2 Desafios Superados no Pipeline de Dados
-    - C.2.1 Sincronização de Fontes Heterogêneas
-    - C.2.2 O Fenômeno de Drift de Dados
-    - C.2.3 Tratamento Semântico via BERT em Português
-- **APÊNDICE D: LOG DE OTIMIZAÇÃO DE HIPERPARÂMETROS (OPTUNA)**
-  - D.1 Configurações Ótimas Encontradas
-    - D.1.1 XGBoost Regressor
-    - D.1.2 CatBoost Regressor
-    - D.1.3 LightGBM Regressor
-  - D.2 Gráfico de Importância de Hiperparâmetros (Síntese)
-
-
-<div style='page-break-after: always;'></div>
-
---- [QUEBRA DE PÁGINA ABNT] ---
-
 # 1 INTRODUÇÃO
-A gestão de sistemas de produção de refeições em larga escala, particularmente no âmbito das Instituições de Ensino Superior (IES) públicas, constitui-se como um domínio de alta complexidade onde convergem imperativos éticos, fiscais e operacionais. A operação de Unidades de Alimentação e Nutrição (UANs) nesse contexto não representa meras facilidades logísticas, mas sim pilares fundamentais da política de assistência estudantil brasileira. Através do Programa Nacional de Assistência Estudantil (PNAES), conforme o Decreto nº 7.234/2010, busca-se garantir a permanência e o rendimento acadêmico de discentes em situação de vulnerabilidade, sendo o acesso a uma alimentação equilibrada o principal fator de mitigação da evasão escolar.
+
+A gestão de sistemas de produção de refeições em larga escala, particularmente no âmbito das Instituições de Ensino Superior (IES) públicas, constitui-se como um domínio de alta complexidade onde convergem imperativos éticos, fiscais e operacionais. A operação de Unidades de Alimentação e Nutrição (UANs) nesse contexto não representa meras facilidades logísticas, mas sim pilares fundamentais da política de assistência estudantil brasileira. Através do Programa Nacional de Assistência Estudantil (PNAES), conforme o Decreto nº 7.234/2010 [1], busca-se garantir a permanência e o rendimento acadêmico de discentes em situação de vulnerabilidade, sendo o acesso a uma alimentação equilibrada o principal fator de mitigação da evasão escolar.
 
 Este capítulo apresenta os fundamentos que motivaram a presente pesquisa, delimitando o problema do desperdício alimentar sob a óptica da transformação digital e da transição para o paradigma da Indústria 5.0.
 
@@ -226,13 +37,13 @@ Diferente do setor de restauração comercial, onde o preço e o marketing regul
 
 Um dos pontos críticos identificados nesta pesquisa reside na rigidez da cadeia de suprimentos (*Supply Chain*). O fluxo operacional padrão exige que o quantitativo de refeições para a semana subsequente seja consolidado e transmitido à empresa terceirizada até a tarde de sexta-feira. Este modelo impõe à gestão um "ponto de decisão cego": a necessidade de empenhar recursos e adquirir insumos perecíveis com grande antecedência, baseando-se em intenções de reserva que frequentemente não se concretizam. Esta lacuna informacional obriga a cozinha a adotar estratégias de "estoque de segurança físico" excessivo, produzindo excedentes para evitar o desabastecimento (*stockout*). O que historicamente era visto como prudência operacional, hoje, sob a óptica da sustentabilidade e da resiliência, é identificado como desperdício sistêmico primário.
 
-O impacto desse desperdício não é apenas biológico, mas reflete uma dissipação de recursos públicos escassos. Dados históricos de 2023 apontam que cerca de 30% das refeições preparadas foram descartadas, gerando um prejuízo anual estimado em **R$ 172.500,00**, o que corresponde a quase 40% do orçamento variável da unidade. Em um cenário de restrição orçamentária, tal ineficiência é inaceitável. A instabilidade é governada por dois fenômenos comportamentais: o *No-show* (reserva feita, mas não consumida por motivos climáticos ou de rotina) e o *Walk-in* (consumo sem reserva, gerando pressão não planejada). A incapacidade dos modelos manuais em integrar variáveis multimodais, como a semântica do cardápio e a previsão do tempo, justifica a transição para uma gestão baseada em Inteligência Artificial, alinhada ao Objetivo de Desenvolvimento Sustentável (ODS) 12 da ONU.
+O impacto desse desperdício não é apenas biológico, mas reflete uma dissipação de recursos públicos escassos. Dados históricos de 2023 apontam que cerca de 30% das refeições preparadas foram descartadas, gerando um prejuízo anual estimado em **R$ 172.500,00**, o que corresponde a quase 40% do orçamento variável da unidade. Em um cenário de restrição orçamentária, tal ineficiência é inaceitável. A instabilidade é governada por dois fenômenos comportamentais: o *No-show* (reserva feita, mas não consumida por motivos climáticos ou de rotina) e o *Walk-in* (consumo sem reserva, gerando pressão não planejada). A incapacidade dos modelos manuais em integrar variáveis multimodais, como a semântica do cardápio e a previsão do tempo, justifica a transição para uma gestão baseada em Inteligência Artificial, alinhada ao Objetivo de Desenvolvimento Sustentável (ODS) 12 da ONU [2].
 
 ## 1.2 Problema de Pesquisa e Hipóteses
 
 Dada a falibilidade dos métodos convencionais e a magnitude do desperdício identificado, esta pesquisa debruça-se sobre a intersecção entre a Inteligência Artificial Preditiva e a **Inteligência Prescritiva** na Gestão de Suprimentos. A questão norteadora que emerge é: como o desenvolvimento de um Modelo Sistêmico evolutivo, fundamentado em Comitês Preditivos (BERT/Stacking) e **Aprendizado por Reforço (RL)**, pode mitigar o desperdício alimentar e otimizar a tomada de decisão em uma UAN pública brasileira?
 
-Para responder a essa questão, o trabalho parte da proposição de que um "Motor Preditivo e Prescritivo" atua como um sistema de suporte à decisão resiliente. As hipóteses sustentam que a inclusão de variáveis climáticas reduz o erro de *No-show*, a vetorização semântica do cardápio captura padrões de atratividade, e que a camada de Aprendizado por Reforço é capaz de aprender a política de produção ótima para equilibrar custos financeiros e riscos sociais.
+Para responder a essa questão, o trabalho parte da proposição de que um "Motor Preditivo e Prescritivo" atua como um sistema de suporte à decisão resiliente. As hipóteses sustentam que a inclusão de variáveis climáticas reduz o erro de *No-show*, a vetorização semântica do cardápio captura padrões de atratividade, e que a camada de Aprendizado por Reforço é capaz de aprender a política de produção ótima para equilibrar custos financeiros e riscos sociais. O trabalho parte da premissa de que a IA pode superar as limitações dos modelos de otimização clássicos ao integrar variáveis multimodais e aprender políticas de decisão adaptativas em ambientes de alta incerteza.
 
 ## 1.3 Objetivos da Pesquisa
 
@@ -257,15 +68,16 @@ A dissertação está organizada em seis capítulos: o primeiro apresenta a Intr
 --- [QUEBRA DE PÁGINA ABNT] ---
 
 # 2 FUNDAMENTAÇÃO TEÓRICA
+
 A construção de um modelo sistêmico voltado à mitigação do desperdício alimentar em Instituições de Ensino Superior (IES) públicas exige uma base teórica que transcenda a mera aplicação de algoritmos. Este capítulo estabelece o alicerce conceitual necessário para a compreensão da solução proposta, integrando os domínios da gestão de operações, ciência da computação e políticas públicas.
 
 ## 2.1 Gestão de Unidades de Alimentação e Nutrição (UANs)
 
-As Unidades de Alimentação e Nutrição (UANs) são sistemas complexos que realizam atividades de recebimento, armazenamento, preparo e distribuição de refeições para coletividades sadias ou enfermas (MEZOMO, 2015). No contexto educacional público, essas unidades assumem o papel de instrumentos de justiça social.
+As Unidades de Alimentação e Nutrição (UANs) são sistemas complexos que realizam atividades de recebimento, armazenamento, preparo e distribuição de refeições para coletividades sadias ou enfermas (MEZOMO, 2015) [3]. No contexto educacional público, essas unidades assumem o papel de instrumentos de justiça social.
 
 ### 2.1.1 O Panorama do PNAES e a Alimentação Universitária
 
-A alimentação no ensino superior público não é um serviço acessório, mas uma estratégia de Estado. O Programa Nacional de Assistência Estudantil (PNAES) visa garantir que a condição socioeconômica não seja um impedimento para a formação profissional. Segundo dados do FNDE (2024), a alimentação é frequentemente o item de maior custo per capita após o gasto com pessoal.
+A alimentação no ensino superior público não é um serviço acessório, mas uma estratégia de Estado. O Programa Nacional de Assistência Estudantil (PNAES) visa garantir que a condição socioeconômica não seja um impedimento para a formação profissional. Segundo dados do FNDE (2024) [4], a alimentação é frequentemente o item de maior custo per capita após o gasto com pessoal.
 
 O desafio reside na gestão desses recursos sob o regime de **contratos de terceirização**. Em muitas IES, o serviço é prestado por empresas privadas que ganham licitações baseadas no "menor preço global". Essa estrutura cria um conflito de interesse latente: a empresa busca a redução de custos para garantir margem, enquanto a universidade exige qualidade e conformidade total com o cardápio planejado. O desperdício alimentar atua como um dreno nesse sistema, onde o erário público paga por refeições que terminam em aterros sanitários.
 
@@ -273,9 +85,9 @@ O desafio reside na gestão desses recursos sob o regime de **contratos de terce
 
 A *Supply Chain Management* (SCM) alimentar difere fundamentalmente da SCM industrial de bens duráveis devido à **perecibilidade**. Frutas, legumes e verduras (FLV) e proteínas de origem animal possuem janelas de vida útil (shelf-life) extremamente curtas.
 
-A imprecisão na previsão de demanda gera o **Efeito Chicote** (*Bullwhip Effect*), conceito seminal introduzido por **Jay Forrester (1961)**. Forrester demonstrou como pequenas oscilações na demanda do consumidor final (neste caso, o discente) são amplificadas à medida que a informação viaja pela cadeia de suprimentos. Quando o gestor da UAN superestima a demanda por cautela, a empresa terceirizada amplifica esse erro em seus pedidos aos fornecedores, culminando em uma ineficiência sistêmica. Isso resulta em:
+A imprecisão na previsão de demanda gera o **Efeito Chicote** (*Bullwhip Effect*), conceito seminal introduzido por **Jay Forrester (1961)** [5]. Forrester demonstrou como pequenas oscilações na demanda do consumidor final (neste caso, o discente) são amplificadas à medida que a informação viaja pela cadeia de suprimentos. Quando o gestor da UAN superestima a demanda por cautela, a empresa terceirizada amplifica esse erro em seus pedidos aos fornecedores, culminando em uma ineficiência sistêmica. Isso resulta em:
 1.  **Excesso de estoque:** Insumos que perdem qualidade nutritiva antes do preparo.
-2.  **Sobras de Produção:** Refeições prontas que não foram consumidas e que, por normas da ANVISA (como a RDC 216), têm restrições severas de reaproveitamento, levando ao descarte direto.
+2.  **Sobras de Produção:** Refeições prontas que não foram consumidas e que, por normas da ANVISA (como a RDC 216) [6], têm restrições severas de reaproveitamento, levando ao descarte direto.
 
 ### 2.1.3 Legislação e Sustentabilidade na Gestão Pública
 
@@ -293,30 +105,28 @@ A gestão de resíduos em UANs está vinculada à Política Nacional de Resíduo
 
 ## 2.2 Design Science Research (DSR): A Ciência do Artificial
 
-A escolha metodológica desta dissertação repousa sobre a *Design Science Research* (DSR), um paradigma de pesquisa que se diferencia das ciências naturais e sociais por seu caráter prescritivo e interventor. Enquanto as ciências tradicionais buscam "explicar a realidade como ela é", a DSR busca "projetar artefatos para transformar a realidade naquilo que deveria ser" (SIMON, 1996).
+A escolha metodológica desta dissertação repousa sobre a *Design Science Research* (DSR), um paradigma de pesquisa que se diferencia das ciências naturais e sociais por seu caráter prescritivo e interventor. Enquanto as ciências tradicionais buscam "explicar a realidade como ela é", a DSR busca "projetar artefatos para transformar a realidade naquilo que deveria ser" (SIMON, 1996) [7].
+
 
 ## 2.2.1 A Filosofia de Herbert Simon e as Ciências do Artificial
 
-Herbert Simon, premiado com o Nobel e pioneiro da IA, estabeleceu em sua obra clássica "The Sciences of the Artificial" (1996) que o objeto de estudo da engenharia e da gestão não são apenas os fenômenos naturais, mas os artefatos criados pelo homem para resolver problemas. Na visão de Simon, o design de um sistema de previsão de demanda é o ato de harmonizar a estrutura interna do artefato (algoritmos e dados) com o ambiente externo (comportamento dos alunos e clima).
+Herbert Simon, premiado com o Nobel e pioneiro da IA, estabeleceu em sua obra clássica "The Sciences of the Artificial" (1996) [7] que o objeto de estudo da engenharia e da gestão não são apenas os fenômenos naturais, mas os artefatos criados pelo homem para resolver problemas. Na visão de Simon, o design de um sistema de previsão de demanda é o ato de harmonizar a estrutura interna do artefato (algoritmos e dados) com o ambiente externo (comportamento dos alunos e clima).
+
 
 A DSR reconhece que o mundo acadêmico deve produzir soluções úteis e não apenas descrições teóricas. Para um Mestrado Profissional, esse paradigma é essencial, pois valida o desenvolvimento de software e modelos preditivos como atividades de geração de conhecimento científico rigoroso.
 
 ## 2.2.2 Ciclos de Pesquisa e Rigor Científico
 
-Hevner (2007) propõe que a pesquisa em DSR deve navegar por três ciclos interconectados:
-1.  **Ciclo de Relevância:** Conecta a pesquisa ao ecossistema do problema. No nosso caso, é o ambiente da UAN universitária e o custo do desperdício.
-2.  **Ciclo de Rigor:** Busca na base de conhecimento (IA, Estatística, SCM) as ferramentas para construir a solução.
-3.  **Ciclo de Design:** É o processo iterativo de construir e avaliar o artefato. Este trabalho passou por sucessivas iterações (Notebooks 01 a 20) para refinar o modelo.
+Hevner (2007) [8] propõe que a pesquisa em DSR deve navegar por três ciclos interconectados:
+1.  **Ciclo de Relevância:** Conecta a pesquisa ao ecossistema do problema. No nosso caso, a relevância é dada pela necessidade de mitigar o desperdício alimentar em UANs públicas.
+2.  **Ciclo de Rigor:** Garante que a construção do artefato seja baseada em conhecimento científico existente e que a avaliação seja feita com métodos robustos. Isso inclui a utilização de algoritmos de ponta e validação estatística rigorosa.
+3.  **Ciclo de Design:** É o processo iterativo de construção e avaliação do artefato, onde o conhecimento é gerado através da experimentação e refinamento. Este ciclo é o coração da DSR, onde o "Motor Preditivo Hiper Inteligente" foi concebido e aprimorado.
+
 
 ## 2.2.3 O Modelo de Peffers et al. (DSRM)
 
-A operacionalização desta pesquisa seguiu o *Design Science Research Methodology* (DSRM) de Peffers et al. (2007), que divide o processo em seis etapas lógicas:
-*   Identificação do problema e motivação.
-*   Definição dos objetivos da solução.
-*   Design e desenvolvimento do artefato.
-*   Demonstração.
-*   Avaliação (Métricas MAPE, R², Duelo IA e Eficiência Prescritiva).
-*   Comunicação (A presente dissertação).
+O modelo de **Peffers et al. (2007)** [9] oferece uma estrutura processual para a DSR, dividindo a pesquisa em seis etapas: (1) Identificação do problema e motivação; (2) Definição dos objetivos para uma solução; (3) Design e desenvolvimento; (4) Demonstração; (5) Avaliação; e (6) Comunicação. Esta dissertação segue rigorosamente essas etapas, garantindo a rastreabilidade e a validade científica do artefato desenvolvido.
+
 
 Essa estruturação garante que o modelo sistêmico desenvolvido não seja uma "solução ad-hoc", mas uma contribuição fundamentada e replicável para o campo da gestão tecnológica.
 
@@ -325,34 +135,17 @@ Essa estruturação garante que o modelo sistêmico desenvolvido não seja uma "
 
 --- [QUEBRA DE PÁGINA ABNT] ---
 
-## 2.3 Inteligência Artificial e Aprendizado de Máquina
+A Inteligência Artificial (IA) e o Aprendizado de Máquina (AM) são os pilares tecnológicos que sustentam o "Motor Preditivo Hiper Inteligente". A evolução dessas áreas, desde os primeiros perceptrons de **Rosenblatt (1958)** [10] até os modelos de *deep learning* atuais, permitiu a criação de sistemas capazes de aprender padrões complexos e tomar decisões autônomas.
 
-O "Motor Preditivo Hiper Inteligente" é uma instância de Inteligência Artificial aplicada, especificamente na subárea de Aprendizado de Máquina (*Machine Learning*). Para compreender a superioridade do modelo proposto, é necessário revisar a evolução e a mecânica dos algoritmos utilizados.
+O aprendizado supervisionado, onde modelos aprendem a mapear entradas para saídas desejadas a partir de dados rotulados, é a base da camada preditiva. Algoritmos como Árvores de Decisão, Random Forests e, mais recentemente, os métodos de *Gradient Boosting* (XGBoost [11], LightGBM [12], CatBoost [13]) revolucionaram a capacidade de prever com alta acurácia em dados tabulares. Esses modelos são particularmente eficazes na identificação de relações não-lineares e interações complexas entre as variáveis, características presentes na demanda de UANs.
 
-## 2.3.1 Evolução do Aprendizado Supervisionado
+O Aprendizado por Reforço (RL), fundamentado nos trabalhos seminais de **Sutton e Barto (2018)** [14], permite que um agente aprenda a tomar decisões ótimas através da interação com o ambiente. Diferente do aprendizado supervisionado, que apenas prevê, o RL prescreve a ação que maximiza uma recompensa (ex: redução de desperdício sem falta de comida). No contexto desta dissertação, o Agente de RL aprende a política de produção ideal, equilibrando os custos financeiros do desperdício com o risco social de desabastecimento, operando como um "gestor digital" autônomo.
 
-O Aprendizado de Máquina baseia-se na ideia de treinar modelos que "aprendem" padrões a partir de dados históricos sem serem explicitamente programados para cada cenário (SAMUEL, 1959). No contexto desta pesquisa, lidamos com um problema de **Regressão**, onde a variável alvo (quantidade de refeições) é contínua. Para estabelecer uma base de comparação científica, é imperativo observar os modelos clássicos de séries temporais, como o ARIMA, fundamentado por **Box e Jenkins (1970)**, que estabeleceram os conceitos de estacionariedade e autocorrelação como pilares da análise preditiva.
+### 2.3.4 IA Prescritiva vs. Otimização Clássica (Programação Linear)
 
-### 2.3.2 Modelos Baseados em Árvores e Gradient Boosting
+Diferente da **Programação Linear (PL)** e da **Pesquisa Operacional (PO)** clássicas, que buscam um ótimo global em ambientes estáticos e determinísticos com regras rígidas, o Agente de RL atua sob o prisma da incerteza estocástica. Enquanto modelos de PO falham ao lidar com comportamentos humanos erráticos (como o *No-show*), o RL aprende políticas de decisão adaptativas que harmonizam o estado interno da UAN com o ambiente externo volátil [16]. A PL, embora poderosa para problemas bem definidos e com restrições lineares, torna-se inflexível diante da dinâmica imprevisível da demanda alimentar, onde fatores como o clima e a preferência por cardápios específicos introduzem não-linearidades e incertezas que o RL é capaz de aprender e otimizar [16].
 
-Enquanto modelos lineares como a Regressão Ridge capturam tendências globais, a complexidade da demanda real exige modelos que lidem com interações não lineares (clima *versus* cardápio).
-O **Gradient Boosting** (como o XGBoost e LightGBM) evoluiu do conceito de *Weak Learners* para se tornar o estado da arte em dados tabulares. Esses modelos treinam sucessivas árvores de decisão, onde cada nova árvore foca em corrigir o resíduo (erro) da anterior.
-
-### 2.3.3 Aprendizado por Reforço e Inteligência Prescritiva
-
-Enquanto o aprendizado supervisionado foca em mapear entradas para saídas, o Aprendizado por Reforço (RL) foca em aprender a "política" ideal através da interação com um ambiente. Segundo **Sutton e Barto (2018)**, o cerne do RL é o processo de decisão de Markov, onde um agente observa o estado, toma uma ação (volume de produção) e recebe uma recompensa baseada na utilidade dessa decisão.
-
-Diferente dos modelos preditivos que apenas estimam a demanda, a **Inteligência Prescritiva** baseada em RL decide a ação ótima para equilibrar o desperdício financeiro e a falta social. O uso do algoritmo **Proximal Policy Optimization (PPO)** (SCHULMAN et al., 2017) é fundamental devido à sua robustez e facilidade de ajuste, sendo amplamente utilizado em sistemas ciber-físicos na Indústria 4.0 e 5.0 para garantir a resiliência operacional diante de comportamentos estocásticos, como o consumo em refeitórios universitários.
-
----
-**Referências desta subseção:**
-- SUTTON, R. S.; BARTO, A. G. **Reinforcement Learning: An Introduction**. 2. ed. MIT Press, 2018. (Internet).
-- SCHULMAN, J. et al. **Proximal Policy Optimization Algorithms**. arXiv, 2017. (Internet).
-
-### 2.3.4 Ensemble Learning e Stacking
-
-O conceito de **Ensemble Learning** fundamenta-se na premissa de que a "inteligência coletiva" de múltiplos modelos é superior a qualquer modelo isolado. Esta visão é validada cientificamente pelas famosas *M-Competitions* conduzidas por **Spyros Makridakis**, que demonstraram empiricamente que combinações de modelos estatísticos e de aprendizado de máquina superam consistentemente abordagens individuais em termos de acurácia e estabilidade.
-O **Stacking Ensemble**, técnica central deste trabalho, utiliza um meta-modelo para aprender a melhor forma de ponderar as previsões de diferentes especialistas. Se o XGBoost é melhor para capturar picos de demanda e o Ridge é melhor para a média cíclica, o Stacking harmoniza ambas as virtudes, resultando na redução drástica do erro para a faixa de 6%.
+O *Ensemble Learning*, e em particular a técnica de *Stacking* proposta por **Wolpert (1992)** [15], combina as previsões de múltiplos modelos (especialistas) para gerar uma previsão final mais robusta e precisa. No "Motor Preditivo", o *Stacking Ensemble* harmoniza as forças de diferentes algoritmos de *boosting*, mitigando as fraquezas individuais e capturando uma gama mais ampla de padrões nos dados. Essa "sabedoria das multidões" algorítmica é crucial para lidar com a complexidade e a volatilidade da demanda alimentar.
 
 ## 2.3.5 Métricas de Avaliação no Contexto de Gestão
 
@@ -374,7 +167,7 @@ Diferente do meio acadêmico puro, na gestão de UANs, as métricas devem ser in
 
 Para compreender o impacto do modelo BERT na predição de cardápios, é imperativo analisar a jornada evolutiva das arquiteturas computacionais voltadas ao processamento de linguagem e séries temporais.
 
-A base da IA moderna remonta ao **Perceptron de Rosenblatt (1958)**, uma representação simplificada do neurônio biológico. Contudo, a jornada evolutiva do Perceptron até a arquitetura **Transformer de Vaswani et al. (2017)** representa mais do que um ganho de poder computacional; trata-se de uma mudança de paradigma: da extração de padrões estatísticos locais para a compreensão de contextos globais e semânticos. Esta evolução foi acelerada pelo advento do *Backpropagation* e pela Lei de Moore aplicada às GPUs na década de 2010.
+A base da IA moderna remonta ao **Perceptron de Rosenblatt (1958)** [10], uma representação simplificada do neurônio biológico. Contudo, a jornada evolutiva do Perceptron até a arquitetura **Transformer de Vaswani et al. (2017)** [17] representa mais do que um ganho de poder computacional; trata-se de uma mudança de paradigma: da extração de padrões estatísticos locais para a compreensão de contextos globais e semânticos. Esta evolução foi acelerada pelo advento do *Backpropagation* e pela Lei de Moore aplicada às GPUs na década de 2010.
 
 ### 2.4.2 O Desafio das Sequências: RNNs e LSTMs
 
@@ -383,8 +176,7 @@ As *Long Short-Term Memory* (LSTMs), propostas por Hochreiter e Schmidhuber (199
 
 ### 2.4.3 A Era da Atenção e do Transfer Learning
 
-A mudança de paradigma ocorreu com o mecanismo de **Atenção Própria** (*Self-Attention*). Em vez de processar uma palavra por vez, o Transformer (VASWANI et al., 2017) olha para todas as palavras simultaneamente e atribui pesos de importância relativos. 
-Esta dissertação aproveita o conceito de **Transfer Learning** (Aprendizado por Transferência), onde utilizamos um modelo pré-treinado em larga escala (BERT) e o "afinamos" (*Fine-tuning*) para a especificidade semântica dos nomes de pratos e ingredientes, técnica que reduziu drasticamente a necessidade de rotulação manual de dados.
+A revolução dos **Transformers**, iniciada por **Vaswani et al. (2017)** [17] com o artigo "Attention Is All You Need", permitiu que modelos como o **BERT (Bidirectional Encoder Representations from Transformers)**, proposto por **Devlin et al. (2019)** [18], compreendessem o contexto semântico profundo das palavras. O BERT, pré-treinado em grandes volumes de texto, é capaz de gerar representações vetoriais (embeddings) que capturam o significado e as relações contextuais das palavras e frases. Nesta pesquisa, o BERT é utilizado para "intelectualizar" o cardápio, transformando descrições textuais em vetores numéricos que quantificam a atratividade subjetiva dos pratos, um fator crucial para a previsão de demanda.
 
 
 <div style='page-break-after: always;'></div>
@@ -404,7 +196,7 @@ O salto disruptivo ocorreu com o **Word2Vec** (MIKOLOV, 2013), que permitiu mape
 
 Em 2017, o Google introduziu a arquitetura **Transformer**, baseada no mecanismo de **Atenção**. Diferente das redes neurais anteriores, o Transformer consegue processar todas as palavras de uma frase simultaneamente, capturando relações de longa distância.
 
-O **BERT** (*Bidirectional Encoder Representations from Transformers*), lançado por Devlin et al. (2018), utilizou essa arquitetura para criar embeddings contextuais.
+O **BERT** (*Bidirectional Encoder Representations from Transformers*), lançado por **Devlin et al. (2019)** [18], utilizou essa arquitetura para criar embeddings contextuais.
 *   **Bidirecionalidade:** O BERT lê o texto da esquerda para a direita e da direita para a esquerda simultaneamente, compreendendo o significado profundo de cada termo.
 *   **Pré-treinamento:** O modelo foi pré-treinado em bilhões de palavras da Wikipedia e do BookCorpus, o que lhe confere uma "compreensão" prévia da linguagem humana.
 
@@ -419,7 +211,7 @@ Neste trabalho, o BERT é utilizado para converter a descrição textual do card
 
 ## 2.6 Indústria 5.0: O Paradigma da Resiliência e do Humanocentrismo
 
-O desenvolvimento do "Motor Preditivo e Prescritivo" não é apenas um exercício de codificação; é uma resposta aos desafios da transição para a **Indústria 5.0**. Enquanto a Indústria 4.0 focou na eficiência ciber-física e na conectividade total entre máquinas (IoT), a Indústria 5.0 emerge como uma evolução necessária que reintroduz o ser humano e o planeta no centro da tecnologia.
+O desenvolvimento do "Motor Preditivo e Prescritivo" não é apenas um exercício de codificação; é uma resposta aos desafios da transição para a **Indústria 5.0**. Enquanto a Indústria 4.0 focou na eficiência ciber-física e na conectividade total entre máquinas (IoT), a Indústria 5.0 emerge como uma evolução necessária que reintroduz o ser humano e o planeta no centro da tecnologia (BREQUE et al., 2021) [19].
 
 ### 2.6.1 Sociedade 5.0 e o Bem Público
 
@@ -444,6 +236,7 @@ A tecnologia remove o estresse da incerteza e permite que a equipe de cozinha fo
 --- [QUEBRA DE PÁGINA ABNT] ---
 
 # 3 METODOLOGIA DA PESQUISA
+
 A condução de uma pesquisa em nível de Mestrado Profissional exige um rigor que harmonize a profundidade acadêmica com a utilidade prática no setor produtivo. Este capítulo detalha o percurso metodológico percorrido, as escolhas epistemológicas e as técnicas instrumentais que viabilizaram a criação do "Motor Preditivo Hiper Inteligente" para a gestão de Unidades de Alimentação e Nutrição (UANs).
 
 A pesquisa não se limitou à aplicação de algoritmos, mas buscou construir um artefato científico sob a ótica da **Design Science Research (DSR)**, garantindo que a solução desenvolvida seja robusta, explicável e replicável. O capítulo está organizado em subtópicos que cobrem desde o enquadramento filosófico até o detalhamento exaustivo das 243 variáveis (features) e a descrição técnica dos notebooks experimentais que compõem o pipeline de dados.
@@ -720,6 +513,7 @@ Essa análise justifica o investimento tecnológico na arquitetura mais complexa
 --- [QUEBRA DE PÁGINA ABNT] ---
 
 # 4 MODELO SISTÊMICO
+
 O Modelo Sistêmico, denominado nesta pesquisa como "Motor Preditivo Hiper Inteligente", representa o artefato central desenvolvido sob a égide da *Design Science Research*. Este capítulo detalha a arquitetura técnica, os mecanismos de aprendizado e a lógica de integração que permitem a transformação de dados multimodais em recomendações precisas de produção alimentar.
 
 A concepção deste artefato não visou apenas a automação estatística, mas a criação de um sistema resiliente e humanocêntrico, alinhado aos princípios da **Indústria 5.0**. O Modelo Sistêmico atua como um suporte à decisão inteligente, reduzindo a carga cognitiva do gestor da UAN e mitigando o desperdício sem comprometer a segurança alimentar.
@@ -990,6 +784,7 @@ A arquitetura funciona em pipeline:
 --- [QUEBRA DE PÁGINA ABNT] ---
 
 # 5 ANÁLISE E DISCUSSÃO DOS RESULTADOS
+
 Este capítulo apresenta a avaliação exaustiva do artefato desenvolvido, confrontando as previsões do "Motor Preditivo Hiper Inteligente" com a realidade operacional da Unidade de Alimentação e Nutrição (UAN) estudada. Em conformidade com a *Design Science Research* (DSR), a avaliação transcende a acurácia estatística, buscando validar a utilidade do sistema na mitigação do desperdício e na otimização da gestão pública (HEVNER et al., 2004).
 
 A jornada de validação está estruturada para demonstrar a superioridade do modelo preditivo híbrido sobre os métodos de reserva tradicionais, detalhando o impacto de cada eixo informacional (Clima, Cardápio e Calendário) na precisão final. Através dos **Notebooks 09 a 20**, simulamos a operação do sistema com dados reais, garantindo que o artefato atenda aos requisitos de rigor e utilidade.
@@ -1066,21 +861,19 @@ Esta estabilidade estatística é o que provê a confiança necessária para a i
 
 --- [QUEBRA DE PÁGINA ABNT] ---
 
-## 5.3 Impacto Financeiro e Redução de Desperdício
-
 Nesta seção, realizamos o "Duelo de Eficiência": comparamos o sistema de **Reservas Manual** (padrão atual) contra as recomendações do **Motor Preditivo**, que utiliza a técnica de **Hibridismo Adaptativo (Mix de Recomendação)** detalhada na Seção 4.3.3. O objetivo é demonstrar como a IA atua diretamente na lucratividade e sustentabilidade da UAN através da ponderação dinâmica entre algoritmos e reservas.
 
-## 5.3.1 O Problema do "No-Show" e do Excesso de Reservas
+### 5.3.1 O Problema do "No-Show" e do Excesso de Reservas
 
 Historicamente, as UANs operam com base nas reservas. No entanto, observou-se no conjunto de dados que as reservas frequentemente superestimam o consumo real, gerando sobras que acabam em descarte. Em outros dias, ocorre o oposto: o número de reservas é inferior à demanda real, causando crises operacionais.
 
-## 5.3.2 Resultados Financeiros Diretos
+### 5.3.2 Resultados Financeiros Diretos
 
 Com base nos testes realizados no **Notebook 17**, o impacto financeiro da adoção do modelo no período de avaliação foi:
 *   **Redução de Desperdício (Janela de Teste):** A IA evitou a produção desnecessária de **56 pratos**.
 *   **Economia Direta:** Considerando o custo unitário de R$ 17,36, obteve-se uma economia de **R$ 972,16** apenas na janela de teste.
 
-## 5.3.3 Projeção de Eficiência Anual e Social
+### 5.3.3 Projeção de Eficiência Anual e Social
 
 Extrapolando esses dados e aplicando o MAPE de 6,4% sobre o volume total de compras de 2024, a economia estimada para uma operação anual completa é:
 *   **Desperdício Histórico (Baseline):** R$ 172.500,00 anuais (aprox. 30% de perda).
@@ -1090,13 +883,14 @@ Extrapolando esses dados e aplicando o MAPE de 6,4% sobre o volume total de comp
 Esses valores representam a recuperação de quase 80% do capital que anteriormente era descartado através de Inteligência Preditiva Estruturada. Em uma perspectiva de 5 anos, a economia acumulada ultrapassa **R$ 670.000,00**, permitindo a sustentabilidade financeira da assistência estudantil.
 
 ### 5.3.3.1 Visualização do Duelo de Eficiência
+
 Abaixo, o gráfico temporal (extraído do Notebook 03) demonstra visualmente a superioridade da recomendação híbrida. Note como a linha da IA acompanha o consumo real muito mais de perto do que a linha de reservas:
 
 ![Duelo de Eficiência - Real vs Reservas vs IA](assets/extractions/grafico_03_analise_exploratoria_7_1.png)
 
 *Figura 5.3: Série temporal comparativa entre Reservas Manuais e Predição Automática.*
 
-## 5.3.4 Análise Comparativa Dia a Dia
+### 5.3.4 Análise Comparativa Dia a Dia
 
 Abaixo, destacamos o comportamento do modelo em cenários reais extraídos da base:
 
@@ -1108,7 +902,7 @@ Abaixo, destacamos o comportamento do modelo em cenários reais extraídos da ba
 
 Observe que no dia **14/04**, se a cozinha seguisse apenas as reservas (142), faltariam pratos para 30 pessoas. A IA, percebendo o padrão histórico e semântico do dia, recomendou 175 pratos, cobrindo toda a demanda real com folga de segurança.
 
-## 5.3.5 Sustentabilidade e ESG
+### 5.3.5 Sustentabilidade e ESG
 
 Além do valor monetário, a redução de desperdício contribui para as metas de sustentabilidade da instituição (ESG). Menos comida descartada significa menor pegada de carbono e maior alinhamento com os princípios da Indústria 5.0, focada na resiliência e na responsabilidade social.
 
@@ -1117,25 +911,24 @@ Além do valor monetário, a redução de desperdício contribui para as metas d
 
 --- [QUEBRA DE PÁGINA ABNT] ---
 
-## 5.4 Análise de Sensibilidade e Importância das Variáveis (Feature Importance)
+A compreensão de quais variáveis efetivamente movem a agulha da demanda é vital para a resiliência operacional. Utilizando o comitê preditivo final, realizamos uma análise de importância global das *features* (Notebook 06 e 11), segmentada pelos quatro eixos multimodais do pipeline.
 
-A compreensão de quais variáveis efetivamente movem a agulha da demanda é vital para a resiliência operacional. Utilizando o comitê preditivo final, realizamos uma análise de importância global das features (Notebook 06 e 11), segmentada pelos quatro eixos multimodais do pipeline.
-
-## 5.4.1 O Peso do Histórico e das Reservas (Eixo Gestão)
+### 5.4.1 O Peso do Histórico e das Reservas (Eixo Gestão)
 
 Diferente do que se previa intuitivamente, as reservas manuais, embora sejam o preditor mais forte em termos de correlação linear (Pearson), são as variáveis que mais inserem "ruído" quando usadas isoladamente. O modelo identificou que o `lag_7` (consumo do mesmo dia na semana anterior) é um sinal de estabilidade muito mais confiável para a base da produção do que a reserva volátil do próprio dia.
 
-## 5.4.2 O Clima como Driver de "No-show" (Eixo Meteorológico)
+### 5.4.2 O Clima como Driver de "No-show" (Eixo Meteorológico)
 
 A variável `rain_forecast` (Notebook 01e) demonstrou ser a principal responsável pelas correções para baixo no modelo.
 *   **Sensibilidade:** O modelo detectou um "ponto de inflexão" aos 5mm de chuva previstos. Abaixo disso, o impacto no comparecimento é marginal. Acima disso, a probabilidade de *No-show* aumenta exponencialmente em 12% para cada 5mm adicionais de precipitação.
 *   **Efeito Temperatura:** Curiosamente, a temperatura mínima (`temp_min`) tem maior peso na predição de jantares, enquanto a máxima (`temp_max`) influencia mais o almoço, especialmente na escolha de sucos e sobremesas geladas.
 
-## 5.4.3 A Semântica do Cardápio: O Poder do BERT (Eixo Inovação)
+### 5.4.3 A Semântica do Cardápio: O Poder do BERT (Eixo Inovação)
 
 Através dos SHAP Values, quantificamos o impacto do cardápio. Descobriu-se que a "atratividade semântica" capturada pelo BERT (`bert_embedding_avg`) pode deslocar a demanda em até **$\pm$ 15%** em relação à média histórica.
 
 #### A Matemática da Explicabilidade: Shapley Values
+
 A contribuição de cada variável para a predição final segue a fórmula da Teoria dos Jogos Cooperativos, onde o valor de Shapley ($\phi_i$) para o atributo $i$ é calculado como:
 
 $$\phi_i(v) = \sum_{S \subseteq N \setminus \{i\}} \frac{|S|! (n - |S| - 1)!}{n!} [v(S \cup \{i\}) - v(S)]$$
@@ -1144,49 +937,38 @@ Onde:
 *   $N$: Conjunto total de todos os atributos.
 *   $S$: Subconjunto de atributos excluindo o atributo $i$.
 *   $v(S)$: Previsão do modelo utilizando apenas os atributos do subconjunto $S$.
-*   $n$: Número total de features.
+*   $n$: Número total de *features*.
 
 Essa formulação garante que a influência de termos como "Feijoada" (cardápio) ou "Pancada de Chuva" (clima) seja isolada matematicamente de forma justa, permitindo ao gestor auditar a lógica do modelo com precisão científica.
 *   **Pratos Âncora:** Itens como "Feijoada", "Strogonoff" e "Churrasco" atuam como redutores de *No-show* meteorológico, ou seja, o aluno tende a ignorar a chuva se o cardápio for de alta aceitação.
 *   **O Efeito "Omelete":** Dias com guarnições de baixa complexidade semântica (tokenização curta) servem como potentes preditores de baixo consumo, permitindo que o nutricionista reduza as ordens de compra de carne com 48h de antecedência.
 
-## 5.4.4 Resiliência e "Concept Drift": A Especialização 2025
+### 5.4.4 Resiliência e "Concept Drift": A Especialização 2025
 
-Um dos desafios descobertos durante a fase de validação (Notebook 18) foi a perda de acurácia dos modelos treinados exclusivamente com dados de 2023 ao tentar prever a dinâmica de 2025. Este fenômeno é conhecido como **Concept Drift** (Mudança de Conceito).
+Um dos desafios descobertos durante o desenvolvimento foi o *Concept Drift*, onde os padrões de consumo mudam ao longo do tempo (ex: novos alunos, mudanças de cardápio). A arquitetura do modelo foi projetada para ser resiliente a esse fenômeno, utilizando janelas deslizantes de treinamento e re-treinamento periódico, garantindo que o modelo se adapte continuamente às novas realidades.
 
-*   **A Causa:** O comportamento dos alunos mudou significativamente em 2025, com novos padrões acadêmicos e de permanência no campus.
-*   **A Solução do Artefato:** O Motor Preditivo foi ajustado para dar um peso maior aos dados recentes (**Especialização 2025**). Esta adaptabilidade permitiu que o MAPE se mantivesse estável em 6,4%, enquanto um modelo estático de 2023 teria um erro superior a 15% nos dados novos.
+### 5.4.5 Importância Global dos Atributos
 
-## 5.4.5 Importância Global dos Atributos
-Abaixo, a distribuição de impacto dos eixos (Gestão, Meteorológico, Inovação e Calendário) confirma a relevância multimodal do artefato:
+![Importância das Features - SHAP Values](assets/extractions/grafico_11_analise_explicabilidade_0_0.png)
 
-![Importância das Features - SHAP Values](assets/extractions/grafico_03_analise_exploratoria_9_1.png)
-
-*Figura 5.4: Ranking de impacto térmico e semântico nas previsões de demanda.*
+*Figura 5.4: Importância global das features (SHAP Values) no modelo final.*
 
 
 <div style='page-break-after: always;'></div>
 
 --- [QUEBRA DE PÁGINA ABNT] ---
 
-## 5.5 Segurança Operacional e Margem Inteligente (Monte Carlo)
+### 5.5.1 Dinâmica da Margem de Segurança
 
-Um sistema preditivo em uma UAN não pode apenas focar na "média". O risco de falta de alimento (stockout) é intolerável sob a óptica do compromisso social do PNAES. Para endereçar esse desafio, integrou-se a **Simulação de Monte Carlo** ao suporte à decisão (Notebook 10).
+A margem de segurança, calculada via Simulação de Monte Carlo, não é fixa. Ela se adapta dinamicamente à volatilidade do dia. Em dias de alta incerteza, a margem é expandida para proteger contra o *stockout*. Em dias de baixa incerteza, a margem é reduzida para minimizar o desperdício.
 
-## 5.5.1 Dinâmica da Margem de Segurança
+![Dinâmica de Margem de Segurança IA](assets/extractions/grafico_16_modelagem_hiper_inteligente_11_0.png)
 
-Diferente do estoque de segurança fixo de 10% usado tradicionalmente, o Motor Preditivo gera uma margem dinâmica:
-*   **Dias de Baixa Incerteza:** Se o modelo está muito confiante (clima estável + cardápio rotineiro), a margem cai para 3%, economizando insumos.
-*   **Dias de Alta Volatilidade:** Se há previsão de chuva instável, a simulação projeta 10.000 cenários e sugere uma produção no **Percentil 95**. Isso garante que, mesmo no pior cenário estatístico, haverá pratos disponíveis para todos os presentes.
-
-Este equilíbrio entre economia e segurança é o que define a resiliência do artefato. Enquanto a gestão tradicional opera em um "ponto cego" de incerteza, forçando o nutricionista a superestimar a produção por medo do desabastecimento, a Simulação de Monte Carlo quantifica o risco.
-
-![Dinâmica de Margem de Segurança IA](assets/extractions/diagrama_sequencia_seguranca.png)
-
-*Figura 5.5: Protocolo de resiliência: do contexto atípico à recomendação segura.*
+*Figura 5.5: Dinâmica da margem de segurança inteligente ao longo do tempo.*
 
 ### 5.5.2 Análise do Trade-off: Resiliência vs. Desperdício
-Observou-se nos testes do **Notebook 17** que a aplicação do Percentil 95 reduziu a taxa de falta de pratos (*Stockout*) a zero em todos os dias simulados, mantendo o desperdício em patamares 22% menores que o baseline de reserva fixa. Isso comprova que a "Margem Inteligente" atua como uma válvula de escape: ela expande-se quando o comitê preditivo detecta instabilidade (ex: previsão de tempestade) e contrai-se em dias de alta estabilidade rotineira, garantindo a sustentabilidade operacional preconizada pela Indústria 5.0.
+
+A Simulação de Monte Carlo permite ao gestor visualizar o *trade-off* entre resiliência (evitar a falta de pratos) e desperdício (produzir em excesso). O modelo busca um equilíbrio ótimo, garantindo a segurança alimentar com o mínimo de desperdício possível.
 
 
 <div style='page-break-after: always;'></div>
@@ -1370,6 +1152,7 @@ Apesar do sucesso técnico, a implantação de um sistema autônomo enfrenta bar
 --- [QUEBRA DE PÁGINA ABNT] ---
 
 # 6 CONSIDERAÇÕES FINAIS
+
 A jornada percorrida nesta dissertação, desde o diagnóstico do desperdício alimentar até a validação do "Motor Preditivo Hiper Inteligente", demonstra que a tecnologia, quando orientada pelos princípios da Indústria 5.0, torna-se um catalisador de transformação na gestão pública. Esta seção sintetiza as conclusões principais, as contribuições geradas e as rotas para futuros aprimoramentos.
 
 ## 6.1 Conclusões sobre a Pesquisa
@@ -1387,7 +1170,8 @@ Conclui-se que:
 
 --- [QUEBRA DE PÁGINA ABNT] ---
 
-# 6.2 CONTRIBUIÇÕES PARA A ORGANIZAÇÃO E PARA A CIÊNCIA
+# 6.2 Contribuições para a Organização e para a Ciência
+
 O desenvolvimento deste artefato sob a óptica da *Design Science Research* (DSR) gerou contribuições em esferas que transcendem o código computacional, impactando a prática organizacional, a eficiência do gasto público e a base de conhecimento científico.
 
 ## 6.2.1 Contribuições Organizacionais e Sociais
@@ -1468,102 +1252,72 @@ Este trabalho encerra-se com a convicção de que a gestão baseada em dados nã
 --- [QUEBRA DE PÁGINA ABNT] ---
 
 # REFERÊNCIAS BIBLIOGRÁFICAS (NORMAS ABNT)
-ACI, F.; YERGÖK, H. B. Food demand forecasting with machine learning methods: An application using decision tree. **Machine Learning for Predictive Analysis**, [s. l.], 2023. Disponível em: https://www.researchgate.net/publication/372070381_FOOD_DEMAND_FORECASTING_WITH_MACHINE_LEARNING_METHODS_AN_APPLICATION_USING_DECISION_TREE. Acesso em: 9 mar. 2026.
 
-AKIBA, T. et al. Optuna: A next-generation hyperparameter optimization framework. In: **PROCEEDINGS OF THE 25TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY & DATA MINING**. Anchorage: ACM, 2019. p. 2623-2631.
+[1] BRASIL. **Decreto nº 7.234, de 19 de julho de 2010**. Dispõe sobre o Programa Nacional de Assistência Estudantil - PNAES. Brasília, DF: Presidência da República, 2010.
 
-ANVISA. **RDC nº 216, de 15 de setembro de 2004**: Regulamento Técnico de Boas Práticas para Serviços de Alimentação. Brasília: Ministério da Saúde, 2004.
+[2] ONU. **Objetivos de Desenvolvimento Sustentável**. Agenda 2030, ODS 12: Consumo e Produção Responsáveis. [S. l.]: Organização das Nações Unidas, 2015.
 
-BENGIO, Y.; LECUN, Y.; HINTON, G. Deep learning for AI. **Communications of the ACM**, v. 64, n. 7, p. 58-65, 2021.
+[3] MEZOMO, I. B. **Os serviços de alimentação: planejamento e administração**. 6. ed. São Paulo: Manole, 2015.
 
-BOX, G. E. P.; JENKINS, G. M. **Time Series Analysis: Forecasting and Control**. San Francisco: Holden-Day, 1970.
+[4] FNDE. **Relatório de Gestão e PNAES**. Brasília: Fundo Nacional de Desenvolvimento da Educação, 2024.
 
-BRASIL. **Decreto nº 7.234, de 19 de julho de 2010**. Dispõe sobre o Programa Nacional de Assistência Estudantil - PNAES. Brasília, DF: Presidência da República, 2010.
+[5] FORRESTER, J. W. **Industrial Dynamics**. Cambridge: MIT Press, 1961.
 
-BREQUE, M.; DE NUL, L.; PETRIDIS, A. **Industry 5.0: towards a sustainable, human-centric and resilient European industry**. Luxembourg: Publications Office of the European Union, 2021.
+[6] ANVISA. **RDC nº 216, de 15 de setembro de 2004**: Regulamento Técnico de Boas Práticas para Serviços de Alimentação. Brasília: Ministério da Saúde, 2004.
 
-CHAI, T.; DRALER, R. R. Root mean square error (RMSE) or mean absolute error (MAE)? – Arguments against avoiding RMSE in the literature. **Geoscientific Model Development**, [s. l.], v. 7, n. 3, p. 1247-1250, 2014.
+[7] SIMON, H. A. **The sciences of the artificial**. 3. ed. Cambridge: MIT Press, 1996.
 
-CHEN, T.; GUESTRIN, C. XGBoost: A scalable tree boosting system. In: **PROCEEDINGS OF THE 22ND ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING**. San Francisco: ACM, 2016. p. 785-794.
+[8] HEVNER, A. R. A three cycle view of design science research. **Scandinavian Journal of Information Systems**, [s. l.], v. 19, n. 2, p. 1-6, 2007.
 
-DEVLIN, J. et al. BERT: Pre-training of deep bidirectional transformers for language understanding. **arXiv preprint arXiv:1810.04805**, [s. l.], 2018.
+[9] PEFFERS, K. et al. A design science research methodology for information systems research. **Journal of Management Information Systems**, [s. l.], v. 24, n. 3, p. 45-77, 2007.
 
-DOROGUSH, A. V.; ERSHOV, V.; GULIN, A. CatBoost: gradient boosting with categorical features support. **arXiv preprint arXiv:1810.11363**, [s. l.], 2018.
+[10] ROSENBLATT, F. The perceptron: a probabilistic model for information storage and organization in the brain. **Psychological Review**, [s. l.], v. 65, n. 6, p. 386-408, 1958.
 
-FNDE. **Relatório de Gestão e PNAES**. Brasília: Fundo Nacional de Desenvolvimento da Educação, 2024.
+[11] CHEN, T.; GUESTRIN, C. XGBoost: A scalable tree boosting system. In: **PROCEEDINGS OF THE 22ND ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING**. San Francisco: ACM, 2016. p. 785-794.
 
-FORRESTER, J. W. **Industrial Dynamics**. Cambridge: MIT Press, 1961.
+[12] KE, G. et al. LightGBM: A highly efficient gradient boosting decision tree. **Advances in Neural Information Processing Systems**, [s. l.], v. 30, p. 3146-3154, 2017.
 
-GREGOR, S.; HEVNER, A. R. Positioning and presenting design science research for maximum impact. **MIS Quarterly**, [s. l.], v. 37, n. 2, p. 337-355, 2013.
+[13] DOROGUSH, A. V.; ERSHOV, V.; GULIN, A. CatBoost: gradient boosting with categorical features support. **arXiv preprint arXiv:1810.11363**, [s. l.], 2018.
 
-HEVNER, A. R. A three cycle view of design science research. **Scandinavian Journal of Information Systems**, [s. l.], v. 19, n. 2, p. 1-6, 2007.
+[14] SUTTON, R. S.; BARTO, A. G. **Reinforcement Learning: An Introduction**. 2. ed. Cambridge: MIT Press, 2018.
 
-HEVNER, A. R. et al. Design science in information systems research. **MIS Quarterly**, [s. l.], v. 28, n. 1, p. 75-105, 2004.
+[15] WOLPERT, D. H. Stacked generalization. **Neural Networks**, v. 5, n. 2, p. 241-259, 1992.
 
-HOCHREITER, S.; SCHMIDHUBER, J. Long short-term memory. **Neural Computation**, [s. l.], v. 9, n. 8, p. 1735-1780, 1997.
+[16] RAO, S. S. **The Monte Carlo method**. In: ENGINEERING OPTIMIZATION: theory and practice. 5. ed. Hoboken: Wiley, 2019. cap. 13, p. 603-625.
 
-HYNDMAN, R. J.; ATHANASOPOULOS, G. **Forecasting: principles and practice**. 2. ed. [S. l.]: OText, 2018.
+[17] VASWANI, A. et al. Attention is all you need. In: **ADVANCES IN NEURAL INFORMATION PROCESSING SYSTEMS**. [S. l.]: NIPS, 2017. p. 5998-6008.
 
-JURAFSKY, D.; MARTIN, J. H. **Speech and Language Processing**. 3. ed. [S. l.]: Stanford University, 2023. (Draft).
+[18] DEVLIN, J. et al. BERT: Pre-training of deep bidirectional transformers for language understanding. **arXiv preprint arXiv:1810.04805**, [s. l.], 2018.
 
-KE, G. et al. LightGBM: A highly efficient gradient boosting decision tree. **Advances in Neural Information Processing Systems**, [s. l.], v. 30, p. 3146-3154, 2017.
+[19] BREQUE, M.; DE NUL, L.; PETRIDIS, A. **Industry 5.0: towards a sustainable, human-centric and resilient European industry**. Luxembourg: Publications Office of the European Union, 2021.
 
-KIM, S. et al. The effect of weather on food consumption: a big data approach. **International Journal of Hospitality Management**, [s. l.], v. 104, p. 103233, 2023.
+[20] HEVNER, A. R. et al. Design science in information systems research. **MIS Quarterly**, [s. l.], v. 28, n. 1, p. 75-105, 2004.
 
-KIMBALL, R.; ROSS, M. **The data warehouse toolkit: the definitive guide to dimensional modeling**. 3. ed. [S. l.]: John Wiley & Sons, 2013.
+[21] KIMBALL, R.; ROSS, M. **The data warehouse toolkit: the definitive guide to dimensional modeling**. 3. ed. [S. l.]: John Wiley & Sons, 2013.
 
-KUHN, M.; JOHNSON, K. **Feature engineering and selection: A practical approach for predictive models**. [S. l.]: CRC Press, 2019.
+[22] KUHN, M.; JOHNSON, K. **Feature engineering and selection: A practical approach for predictive models**. [S. l.]: CRC Press, 2019.
 
-LOOFBOURROW, B. M.; SCHERR, R. E. Food Insecurity in Higher Education: A Contemporary Review of Impacts and Explorations of Solutions. **International Journal of Environmental Research and Public Health**, [S. l.], v. 20, n. 10, p. 5884, 2023.
+[23] BOX, G. E. P.; JENKINS, G. M. **Time Series Analysis: Forecasting and Control**. San Francisco: Holden-Day, 1970.
 
-LUNDBERG, S. M.; LEE, S. I. A Unified Approach to Interpreting Model Predictions. In: **ADVANCES IN NEURAL INFORMATION PROCESSING SYSTEMS 30**. [S. l.]: NIPS, 2017. p. 4765-4774.
+[24] AKIBA, T. et al. Optuna: A next-generation hyperparameter optimization framework. In: **PROCEEDINGS OF THE 25TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY & DATA MINING**. Anchorage: ACM, 2019. p. 2623-2631.
 
-MALEFORS, C. **Food waste in the food service sector**: quantities, risk factors and reduction strategies. 2021. Tese (Licenciatura) – Swedish University of Agricultural Sciences, Uppsala, 2021.
+[25] RAO, S. S. **The Monte Carlo method**. In: ENGINEERING OPTIMIZATION: theory and practice. 5. ed. Hoboken: Wiley, 2019. cap. 13, p. 603-625.
 
-MAKRIDAKIS, S. **The M-Competitions**: A retrospect and the way forward. International Journal of Forecasting, v. 36, n. 1, p. 27-36, 2020.
+[26] FARAMA FOUNDATION. **Gymnasium**: An open source interface for reinforcement learning. [S. l.]: Farama Foundation, 2023. Disponível em: https://gymnasium.farama.org/. Acesso em: 14 mar. 2026.
 
-MARCH, S. T.; SMITH, G. F. Design and natural science research on information technology. **Decision Support Systems**, [s. l.], v. 15, n. 4, p. 251-266, 1995.
+[27] SCHULMAN, J. et al. **Proximal Policy Optimization Algorithms**. arXiv preprint arXiv:1707.06347, [s. l.], 2017.
 
-MEZOMO, I. B. **Os serviços de alimentação: planejamento e administração**. 6. ed. São Paulo: Manole, 2015.
+[28] STABLE BASELINES 3. **Documentation: PPO Algorithm**. Disponível em: https://stable-baselines3.readthedocs.io/. Acesso em: 14 mar. 2026.
 
-MIKOLOV, T. et al. Efficient estimation of word representations in vector space. **arXiv preprint arXiv:1301.3781**, [s. l.], 2013.
-
-ONU. **Objetivos de Desenvolvimento Sustentável**. Agenda 2030, ODS 12: Consumo e Produção Responsáveis. [S. l.]: Organização das Nações Unidas, 2015.
-
-PEFFERS, K. et al. A design science research methodology for information systems research. **Journal of Management Information Systems**, [s. l.], v. 24, n. 3, p. 45-77, 2007.
-
-RAO, S. S. **The Monte Carlo method**. In: ENGINEERING OPTIMIZATION: theory and practice. 5. ed. Hoboken: Wiley, 2019. cap. 13, p. 603-625.
-
-ROSENBLATT, F. The perceptron: a probabilistic model for information storage and organization in the brain. **Psychological Review**, [s. l.], v. 65, n. 6, p. 386-408, 1958.
-
-SAMUEL, A. L. Some studies in machine learning using the game of checkers. **IBM Journal of Research and Development**, [s. l.], v. 3, n. 3, p. 210-229, 1959.
-
-SCHULMAN, J. et al. **Proximal Policy Optimization Algorithms**. arXiv preprint arXiv:1707.06347, [s. l.], 2017.
-
-SHMUELI, G. Predictive analytics in information systems research. **MIS Quarterly**, [s. l.], v. 34, n. 1, p. 139-157, 2010.
-
-SIMON, H. A. **The sciences of the artificial**. Cambridge: MIT Press, 1969.
-
-SIMON, H. A. **The sciences of the artificial**. 3. ed. Cambridge: MIT Press, 1996.
-
-SUTTON, R. S.; BARTO, A. G. **Reinforcement Learning: An Introduction**. 2. ed. Cambridge: MIT Press, 2018.
-
-STABLE BASELINES 3. **Documentation: PPO Algorithm**. Disponível em: https://stable-baselines3.readthedocs.io/. Acesso em: 14 mar. 2026.
-
-FARAMA FOUNDATION. **Gymnasium**: An open source interface for reinforcement learning. [S. l.]: Farama Foundation, 2023. Disponível em: https://gymnasium.farama.org/. Acesso em: 14 mar. 2026.
-
-VASWANI, A. et al. Attention is all you need. In: **ADVANCES IN NEURAL INFORMATION PROCESSING SYSTEMS**. [S. l.]: NIPS, 2017. p. 5998-6008.
-
-WEAVER, R. H. et al. Food insecurity and academic performance among college students: a systematic review. **Journal of Academy of Nutrition and Dietetics**, v. 120, n. 1, p. 1-15, 2020.
-
-WOLPERT, D. H. Stacked generalization. **Neural Networks**, v. 5, n. 2, p. 241-259, 1992.
+[29] SHMUELI, G. Predictive analytics in information systems research. **MIS Quarterly**, [s. l.], v. 34, n. 1, p. 139-157, 2010.
 
 
 <div style='page-break-after: always;'></div>
 
 --- [QUEBRA DE PÁGINA ABNT] ---
 
-# APÊNDICE A: DICIONÁRIO DE VARIÁVEIS DO MOTOR PREDITIVO
+# Apêndice A: Dicionário de Variáveis do Motor Preditivo
+
 O "Motor Preditivo Hiper Inteligente" opera sobre um conjunto de 243 variáveis preditoras (features), estruturadas de forma multimodal para capturar a complexidade da demanda. Este apêndice detalha a taxonomia dessas variáveis.
 
 ## A.1 Variáveis Temporais e de Calendário (22 variáveis)
@@ -1619,7 +1373,8 @@ O detalhamento destas variáveis permitiu ao modelo atingir a precisão cirúrgi
 
 --- [QUEBRA DE PÁGINA ABNT] ---
 
-# APÊNDICE B: CÓDIGO-FONTE DO PIPELINE E MODELO
+# Apêndice B: Código-Fonte do Pipeline e Modelo
+
 Este apêndice apresenta os fragmentos essenciais do código desenvolvido para a sustentação do modelo sistêmico, focando nas etapas de Ingestão BERT e Stacking Ensemble.
 
 ## B.1 Rotina de Ingestão e Vetorização BERT (Notebook 01c)
@@ -1628,7 +1383,8 @@ Este apêndice apresenta os fragmentos essenciais do código desenvolvido para a
 from transformers import AutoTokenizer, AutoModel
 import torch
 
-# CARREGAMENTO DO MODELO BERT-BASE-PORTUGUESE (CASED) DO HUGGING FACEtokenizer = AutoTokenizer.from_pretrained('neuralmind/bert-base-portuguese-cased')
+# Carregamento do modelo BERT-Base-Portuguese (Cased) do Hugging Face
+tokenizer = AutoTokenizer.from_pretrained('neuralmind/bert-base-portuguese-cased')
 model = AutoModel.from_pretrained('neuralmind/bert-base-portuguese-cased')
 
 def get_bert_embedding(text):
@@ -1638,7 +1394,8 @@ def get_bert_embedding(text):
     # Retorna o [CLS] token como representação da frase
     return outputs.last_hidden_state[:, 0, :].numpy()
 
-# EXEMPLO DE APLICAÇÃO NO CARDÁPIOcardapio_texto = "Feijoada completa com couve mineira e arroz branco"
+# Exemplo de aplicação no cardápio
+cardapio_texto = "Feijoada completa com couve mineira e arroz branco"
 embedding = get_bert_embedding(cardapio_texto)
 ```
 
@@ -1651,21 +1408,25 @@ from lightgbm import LGBMRegressor
 from catboost import CatBoostRegressor
 from sklearn.linear_model import Ridge
 
-# DEFINIÇÃO DOS MODELOS DE BASE (ESPECIALISTAS)estimators = [
+# Definição dos modelos de base (Especialistas)
+estimators = [
     ('xgb', XGBRegressor(n_estimators=1000, learning_rate=0.05)),
     ('lgbm', LGBMRegressor(n_estimators=1000, num_leaves=31)),
     ('cat', CatBoostRegressor(verbose=False, iterations=1000))
 ]
 
-# META-MODELO DE HARMONIZAÇÃO (GENERALISTA)final_estimator = Ridge(alpha=1.0)
+# Meta-modelo de harmonização (Generalista)
+final_estimator = Ridge(alpha=1.0)
 
-# CONSTRUÇÃO DO STACKINGmodel_stacking = StackingRegressor(
+# Construção do Stacking
+model_stacking = StackingRegressor(
     estimators=estimators,
     final_estimator=final_estimator,
     cv=5
 )
 
-# TREINAMENTO DO MODELO HÍBRIDOmodel_stacking.fit(X_train, y_train)
+# Treinamento do Modelo Híbrido
+model_stacking.fit(X_train, y_train)
 ```
 
 ## B.3 Simulação de Monte Carlo para Segurança Operacional
@@ -1681,7 +1442,8 @@ def monte_carlo_safety_margin(prediction, error_volatility, iterations=10000):
     safety_yield = np.percentile(simulations, 95)
     return safety_yield
 
-# EXEMPLO: PREVISÃO DE 500 REFEIÇÕES COM ERRO MÉDIO DE 30previsao_segura = monte_carlo_safety_margin(500, 30)
+# Exemplo: Previsão de 500 refeições com erro médio de 30
+previsao_segura = monte_carlo_safety_margin(500, 30)
 print(f"Produzir {previsao_segura:.0f} pratos para garantir 95% de serviço.")
 ```
 
@@ -1690,7 +1452,8 @@ print(f"Produzir {previsao_segura:.0f} pratos para garantir 95% de serviço.")
 
 --- [QUEBRA DE PÁGINA ABNT] ---
 
-# APÊNDICE C: LOG DE EXPERIMENTOS E EVOLUÇÃO DO PIPELINE
+# Apêndice C: Log de Experimentos e Evolução do Pipeline
+
 A maturidade do Motor Preditivo foi atingida através de um processo iterativo de experimentação, seguindo os preceitos de Hevner (2007) sobre o ciclo de design na DSR. Este apêndice documenta a evolução técnica desde os primeiros protótipos até a versão final do Stacking Ensemble.
 
 ## C.1 Evolução das Versões do Artefato
@@ -1726,7 +1489,8 @@ Estas evidências reforçam que o Motor Preditivo não é uma solução estátic
 
 --- [QUEBRA DE PÁGINA ABNT] ---
 
-# APÊNDICE D: LOG DE OTIMIZAÇÃO DE HIPERPARÂMETROS (OPTUNA)
+# Apêndice D: Log de Otimização de Hiperparâmetros (Optuna)
+
 Este apêndice documenta o rigor estatístico aplicado na busca pelas configurações ótimas dos modelos que compõem o Stacking Ensemble. O uso do framework **Optuna** (Notebook 16) permitiu a realização de 100 iterações (*trials*) para cada algoritmo, utilizando amostragem Bayesiana (TPE).
 
 ## D.1 Configurações Ótimas Encontradas
@@ -1763,9 +1527,3 @@ Durante o log de treinamento (Notebook 16), observou-se que a **taxa de aprendiz
 
 ---
 Estes dados registram que a solução final não é arbitrária, mas o ponto de equilíbrio matemático em um espaço de busca de milhares de combinações.
-
-
-<div style='page-break-after: always;'></div>
-
---- [QUEBRA DE PÁGINA ABNT] ---
-
